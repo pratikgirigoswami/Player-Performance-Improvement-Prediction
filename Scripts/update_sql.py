@@ -2,7 +2,7 @@ import csv
 import mysql.connector
 from mysql.connector import errorcode
 
-def connect_to_sql(user, password, database):
+def connect_to_sql():
     try:
         connection = mysql.connector.connect(user=user,
                                             password=password,
@@ -29,7 +29,7 @@ def insert_values_sql(data):
 
     QUERY = f'INSERT INTO sys.players(id, full_name, team, salary, position, draftking) VALUES({id}, "{full_name}", "{team}", {salary}, "{position}", {draftking})'
 
-    connection, cursor = connect_to_sql('root', 'admin', 'sys')
+    connection, cursor = connect_to_sql()
     cursor.execute(QUERY)
 
     connection.commit()
@@ -39,7 +39,7 @@ def insert_values_sql(data):
 def backup_sql_table():
     QUERY = 'SELECT * FROM sys.players'
 
-    connection, cursor = connect_to_sql('root', 'admin', 'sys')
+    connection, cursor = connect_to_sql()
     
     cursor.execute(QUERY)
     
@@ -53,7 +53,7 @@ def backup_sql_table():
 
 
 def drop_table():
-    connection, cursor = connect_to_sql('root', 'admin', 'sys')
+    connection, cursor = connect_to_sql()
     QUERY = 'DELETE FROM sys.players'
 
     cursor.execute(QUERY)
@@ -64,6 +64,10 @@ def drop_table():
 if __name__ == '__main__':
     PATH_NEW_DATA = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/players.csv'
     PATH_BACKUP = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/backup_players.csv'
+
+    user = 'root'
+    password = 'admin'
+    database = 'sys'
 
     # Reading the csv file
     with open(PATH_NEW_DATA) as f:
