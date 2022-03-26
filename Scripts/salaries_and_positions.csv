@@ -1,0 +1,347 @@
+full_name,position,salary,team
+Nikola Jokic,"['C', 'UTIL']",12000,DEN
+Giannis Antetokounmpo,"['SF', 'PF', 'F', 'UTIL']",11800,MIL
+Kevin Durant,"['SF', 'PF', 'F', 'UTIL']",11600,BKN
+Kyrie Irving,"['PG', 'SG', 'G', 'UTIL']",10900,BKN
+Darius Garland,"['PG', 'G', 'UTIL']",10200,CLE
+Ja Morant,"['PG', 'G', 'UTIL']",10100,MEM
+Shai Gilgeous-Alexander,"['PG', 'G', 'UTIL']",10000,OKC
+Domantas Sabonis,"['C', 'UTIL']",9900,SAC
+Tyrese Haliburton,"['PG', 'SG', 'G', 'UTIL']",9800,IND
+De'Aaron Fox,"['PG', 'G', 'UTIL']",9300,SAC
+Pascal Siakam,"['PF', 'C', 'F', 'UTIL']",9200,TOR
+DeMar DeRozan,"['PF', 'F', 'UTIL']",8900,CHI
+Jrue Holiday,"['PG', 'G', 'UTIL']",8800,MIL
+Damian Lillard,"['PG', 'G', 'UTIL']",8800,POR
+Khris Middleton,"['SG', 'SF', 'F', 'G', 'UTIL']",8700,MIL
+Fred VanVleet,"['PG', 'SG', 'G', 'UTIL']",8700,TOR
+Jusuf Nurkic,"['C', 'UTIL']",8600,POR
+Zach LaVine,"['SG', 'G', 'UTIL']",8500,CHI
+Wendell Carter Jr.,"['PF', 'C', 'F', 'UTIL']",8500,ORL
+Christian Wood,"['C', 'UTIL']",8500,HOU
+Nikola Vucevic,"['C', 'UTIL']",8400,CHI
+Jimmy Butler,"['SF', 'PF', 'F', 'UTIL']",8400,MIA
+Bam Adebayo,"['C', 'UTIL']",8300,MIA
+Evan Mobley,"['PF', 'C', 'F', 'UTIL']",8100,CLE
+Scottie Barnes,"['SF', 'PF', 'F', 'UTIL']",8100,TOR
+Josh Hart,"['SG', 'G', 'UTIL']",8100,POR
+Ben Simmons,"['PG', 'G', 'UTIL']",8000,BKN
+Anfernee Simons,"['PG', 'G', 'UTIL']",8000,POR
+Buddy Hield,"['SG', 'SF', 'F', 'G', 'UTIL']",7900,IND
+Josh Giddey,"['PG', 'SG', 'G', 'UTIL']",7800,OKC
+Desmond Bane,"['SG', 'G', 'UTIL']",7800,MEM
+John Wall,"['PG', 'G', 'UTIL']",7800,HOU
+Jarrett Allen,"['C', 'UTIL']",7600,CLE
+Malcolm Brogdon,"['PG', 'G', 'UTIL']",7500,IND
+Jaren Jackson Jr.,"['PF', 'C', 'F', 'UTIL']",7400,MEM
+Bobby Portis,"['PF', 'C', 'F', 'UTIL']",7400,MIL
+Tyler Herro,"['PG', 'SG', 'G', 'UTIL']",7300,MIA
+Trendon Watford,"['PF', 'C', 'F', 'UTIL']",7200,POR
+Cole Anthony,"['PG', 'G', 'UTIL']",7100,ORL
+Brandon Williams,"['PG', 'G', 'UTIL']",7000,POR
+Kyle Lowry,"['PG', 'G', 'UTIL']",6800,MIA
+Steven Adams,"['C', 'UTIL']",6600,MEM
+Drew Eubanks,"['C', 'UTIL']",6600,POR
+Kevin Love,"['PF', 'C', 'F', 'UTIL']",6500,CLE
+Lonzo Ball,"['PG', 'G', 'UTIL']",6400,CHI
+Lauri Markkanen,"['SF', 'PF', 'F', 'UTIL']",6400,CLE
+Bruce Brown,"['SF', 'F', 'UTIL']",6400,BKN
+Gary Trent Jr.,"['SG', 'SF', 'F', 'G', 'UTIL']",6300,TOR
+Kevin Porter Jr.,"['PG', 'G', 'UTIL']",6200,HOU
+Luguentz Dort,"['PF', 'F', 'UTIL']",6100,OKC
+Darius Bazley,"['PF', 'C', 'F', 'UTIL']",6100,OKC
+Davion Mitchell,"['PG', 'SG', 'G', 'UTIL']",6000,SAC
+Harrison Barnes,"['SF', 'PF', 'F', 'UTIL']",6000,SAC
+Justise Winslow,"['SF', 'PF', 'F', 'UTIL']",6000,POR
+Victor Oladipo,"['PG', 'SG', 'G', 'UTIL']",5900,MIA
+Seth Curry,"['SG', 'SF', 'F', 'G', 'UTIL']",5900,BKN
+Franz Wagner,"['SF', 'F', 'UTIL']",5900,ORL
+Aleksej Pokusevski,"['SF', 'PF', 'F', 'UTIL']",5800,OKC
+Dillon Brooks,"['SG', 'SF', 'F', 'G', 'UTIL']",5800,MEM
+Andre Drummond,"['C', 'UTIL']",5800,BKN
+Trey Lyles,"['PF', 'C', 'F', 'UTIL']",5800,SAC
+Isaiah Jackson,"['PF', 'C', 'F', 'UTIL']",5800,IND
+Jalen Green,"['PG', 'SG', 'G', 'UTIL']",5800,HOU
+Tre Mann,"['PG', 'SG', 'G', 'UTIL']",5700,OKC
+Mo Bamba,"['C', 'UTIL']",5700,ORL
+Malachi Flynn,"['PG', 'G', 'UTIL']",5700,TOR
+Oshae Brissett,"['SF', 'PF', 'F', 'UTIL']",5700,IND
+Caris LeVert,"['PG', 'SG', 'G', 'UTIL']",5600,CLE
+Jalen Smith,"['PF', 'C', 'F', 'UTIL']",5600,IND
+Terence Davis,"['PG', 'G', 'UTIL']",5500,SAC
+Goga Bitadze,"['C', 'UTIL']",5500,IND
+OG Anunoby,"['SG', 'SF', 'F', 'G', 'UTIL']",5500,TOR
+Alperen Sengun,"['PF', 'C', 'F', 'UTIL']",5500,HOU
+Aaron Gordon,"['SF', 'PF', 'F', 'UTIL']",5400,DEN
+Donte DiVincenzo,"['SG', 'SF', 'F', 'G', 'UTIL']",5400,SAC
+Myles Turner,"['C', 'UTIL']",5400,IND
+Will Barton,"['SG', 'G', 'UTIL']",5300,DEN
+De'Anthony Melton,"['PG', 'SG', 'G', 'UTIL']",5300,MEM
+Alex Caruso,"['PG', 'SG', 'G', 'UTIL']",5200,CHI
+Michael Porter Jr.,"['PF', 'F', 'UTIL']",5200,DEN
+Bones Hyland,"['PG', 'SG', 'G', 'UTIL']",5200,DEN
+Chris Boucher,"['PF', 'F', 'UTIL']",5200,TOR
+Coby White,"['PG', 'SG', 'G', 'UTIL']",5100,CHI
+Tyus Jones,"['PG', 'G', 'UTIL']",5100,MEM
+Goran Dragic,"['PG', 'G', 'UTIL']",5100,BKN
+Nassir Little,"['PF', 'F', 'UTIL']",5100,POR
+Isaiah Roby,"['PF', 'C', 'F', 'UTIL']",5000,OKC
+Chuma Okeke,"['SF', 'PF', 'F', 'UTIL']",4800,ORL
+Precious Achiuwa,"['C', 'UTIL']",4800,TOR
+Brook Lopez,"['C', 'UTIL']",4700,MIL
+Kyle Anderson,"['SF', 'PF', 'F', 'UTIL']",4700,MEM
+Jalen Suggs,"['PG', 'SG', 'G', 'UTIL']",4700,ORL
+Dennis Schroder,"['PG', 'SG', 'G', 'UTIL']",4700,HOU
+CJ Elleby,"['SG', 'SF', 'F', 'G', 'UTIL']",4700,POR
+Ayo Dosunmu,"['PG', 'G', 'UTIL']",4600,CHI
+Monte Morris,"['PG', 'G', 'UTIL']",4600,DEN
+Kenrich Williams,"['PF', 'F', 'UTIL']",4600,OKC
+Grayson Allen,"['SG', 'SF', 'F', 'G', 'UTIL']",4600,MIL
+Brandon Clarke,"['PF', 'C', 'F', 'UTIL']",4600,MEM
+Nicolas Claxton,"['C', 'UTIL']",4600,BKN
+Chris Duarte,"['SG', 'SF', 'F', 'G', 'UTIL']",4600,IND
+Kris Dunn,"['PG', 'G', 'UTIL']",4600,POR
+Jamal Murray,"['SG', 'G', 'UTIL']",4500,DEN
+Pat Connaughton,"['SF', 'PF', 'F', 'UTIL']",4500,MIL
+LaMarcus Aldridge,"['PF', 'C', 'F', 'UTIL']",4500,BKN
+Damian Jones,"['C', 'UTIL']",4400,SAC
+Moritz Wagner,"['PF', 'C', 'F', 'UTIL']",4400,ORL
+Eric Bledsoe,"['PG', 'G', 'UTIL']",4400,POR
+Markelle Fultz,"['PG', 'G', 'UTIL']",4300,ORL
+R.J. Hampton,"['PG', 'SG', 'G', 'UTIL']",4200,ORL
+Jae'Sean Tate,"['PF', 'F', 'UTIL']",4200,HOU
+Isaac Okoro,"['SG', 'SF', 'F', 'G', 'UTIL']",4100,CLE
+DeMarcus Cousins,"['C', 'UTIL']",4100,DEN
+Aaron Wiggins,"['SF', 'F', 'UTIL']",4100,OKC
+Jevon Carter,"['PG', 'SG', 'G', 'UTIL']",4100,MIL
+Max Strus,"['SG', 'SF', 'F', 'G', 'UTIL']",4100,MIA
+T.J. McConnell,"['PG', 'G', 'UTIL']",4100,IND
+Terry Taylor,"['PF', 'C', 'F', 'UTIL']",4100,IND
+Rajon Rondo,"['PG', 'G', 'UTIL']",4000,CLE
+Chimezie Metu,"['PF', 'F', 'UTIL']",4000,SAC
+Justin Anderson,"['SF', 'F', 'UTIL']",4000,IND
+Ben McLemore,"['SG', 'G', 'UTIL']",4000,POR
+Lamar Stevens,"['SG', 'SF', 'F', 'G', 'UTIL']",3900,CLE
+Caleb Martin,"['SF', 'F', 'UTIL']",3900,MIA
+Justin Holiday,"['SG', 'G', 'UTIL']",3900,SAC
+Cedi Osman,"['SG', 'SF', 'F', 'G', 'UTIL']",3800,CLE
+Theo Maledon,"['PG', 'G', 'UTIL']",3800,OKC
+Richaun Holmes,"['C', 'UTIL']",3800,SAC
+Lance Stephenson,"['PG', 'SF', 'F', 'G', 'UTIL']",3800,IND
+Keon Johnson,"['SG', 'SF', 'F', 'G', 'UTIL']",3800,POR
+Ty Jerome,"['PG', 'G', 'UTIL']",3700,OKC
+John Konchar,"['SG', 'SF', 'F', 'G', 'UTIL']",3700,MEM
+Joe Harris,"['SG', 'G', 'UTIL']",3700,BKN
+Duncan Robinson,"['SG', 'G', 'UTIL']",3700,MIA
+Vit Krejci,"['PG', 'SG', 'G', 'UTIL']",3600,OKC
+Jeff Green,"['SF', 'PF', 'F', 'UTIL']",3600,DEN
+Serge Ibaka,"['PF', 'C', 'F', 'UTIL']",3600,MIL
+P.J. Tucker,"['PF', 'F', 'UTIL']",3600,MIA
+Jeremy Lamb,"['SF', 'F', 'UTIL']",3600,SAC
+Dean Wade,"['SF', 'F', 'UTIL']",3500,CLE
+Javonte Green,"['SF', 'F', 'UTIL']",3500,CHI
+JaMychal Green,"['PF', 'C', 'F', 'UTIL']",3500,DEN
+Ziaire Williams,"['SF', 'F', 'UTIL']",3500,MEM
+Patty Mills,"['PG', 'SG', 'G', 'UTIL']",3500,BKN
+Khem Birch,"['C', 'UTIL']",3500,TOR
+KJ Martin,"['PF', 'C', 'F', 'UTIL']",3500,HOU
+Greg Brown,"['PF', 'C', 'F', 'UTIL']",3500,POR
+DeAndre' Bembry,"['SG', 'G', 'UTIL']",3400,MIL
+Gabe Vincent,"['PG', 'G', 'UTIL']",3400,MIA
+Cameron Thomas,"['SG', 'SF', 'F', 'G', 'UTIL']",3400,BKN
+Michael Carter-Williams,"['PG', 'G', 'UTIL']",3400,ORL
+Jeff Dowtin,"['PG', 'SG', 'G', 'UTIL']",3400,ORL
+Duane Washington Jr.,"['SG', 'G', 'UTIL']",3400,IND
+Dalano Banton,"['PG', 'G', 'UTIL']",3400,TOR
+Eric Gordon,"['SG', 'SF', 'F', 'G', 'UTIL']",3400,HOU
+Patrick Williams,"['SF', 'PF', 'F', 'UTIL']",3300,CHI
+Bryn Forbes,"['SG', 'G', 'UTIL']",3300,DEN
+Xavier Tillman,"['C', 'UTIL']",3300,MEM
+Jordan Nwora,"['SF', 'PF', 'F', 'UTIL']",3300,MIL
+Kessler Edwards,"['PF', 'F', 'UTIL']",3300,BKN
+Terrence Ross,"['SG', 'SF', 'F', 'G', 'UTIL']",3300,ORL
+Alex Len,"['C', 'UTIL']",3300,SAC
+Thaddeus Young,"['PF', 'C', 'F', 'UTIL']",3300,TOR
+Josh Christopher,"['SG', 'SF', 'F', 'G', 'UTIL']",3300,HOU
+Elijah Hughes,"['SF', 'F', 'UTIL']",3300,POR
+Tristan Thompson,"['C', 'UTIL']",3200,CHI
+Austin Rivers,"['SG', 'SF', 'F', 'G', 'UTIL']",3200,DEN
+Derrick Favors,"['C', 'UTIL']",3200,OKC
+Wesley Matthews,"['SG', 'SF', 'F', 'G', 'UTIL']",3200,MIL
+James Johnson,"['PF', 'C', 'F', 'UTIL']",3200,BKN
+Admiral Schofield,"['PF', 'F', 'UTIL']",3200,ORL
+Armoni Brooks,"['PG', 'G', 'UTIL']",3200,TOR
+Garrison Mathews,"['SF', 'F', 'UTIL']",3200,HOU
+Brandon Goodwin,"['PG', 'G', 'UTIL']",3100,CLE
+Olivier Sarr,"['C', 'UTIL']",3100,OKC
+Markieff Morris,"['PF', 'C', 'F', 'UTIL']",3100,MIA
+Ignas Brazdeikis,"['SF', 'PF', 'F', 'UTIL']",3100,ORL
+Bruno Fernando,"['C', 'UTIL']",3100,HOU
+RJ Nembhard,"['PG', 'G', 'UTIL']",3000,CLE
+Anderson Varejao,"['C', 'UTIL']",3000,CLE
+Tacko Fall,"['C', 'UTIL']",3000,CLE
+Mitch Ballock,"['PG', 'SG', 'G', 'UTIL']",3000,CLE
+Malik Newman,"['PG', 'G', 'UTIL']",3000,CLE
+Dylan Windler,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,CLE
+Kevin Pangos,"['PG', 'G', 'UTIL']",3000,CLE
+Ed Davis,"['C', 'UTIL']",3000,CLE
+Tim Frazier,"['PG', 'G', 'UTIL']",3000,CLE
+Tre Scott,"['SF', 'PF', 'F', 'UTIL']",3000,CLE
+Collin Sexton,"['PG', 'G', 'UTIL']",3000,CLE
+Moses Brown,"['C', 'UTIL']",3000,CLE
+Troy Brown Jr.,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
+Derrick Jones Jr.,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
+Bryce Alford,"['PG', 'G', 'UTIL']",3000,CHI
+Tyler Cook,"['PF', 'C', 'F', 'UTIL']",3000,CHI
+Devon Dotson,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
+Ersan Ilyasova,"['PF', 'F', 'UTIL']",3000,CHI
+Malcolm Hill,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,CHI
+Matt Thomas,"['SG', 'G', 'UTIL']",3000,CHI
+Troy Baxter,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
+Jordan Bell,"['PF', 'F', 'UTIL']",3000,CHI
+Ethan Thompson,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
+Tony Bradley,"['C', 'UTIL']",3000,CHI
+Mac McClung,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
+Marko Simonovic,"['C', 'UTIL']",3000,CHI
+Alfonzo McKinnie,"['SF', 'F', 'UTIL']",3000,CHI
+Lindy Waters III,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,OKC
+Vlatko Cancar,"['SF', 'F', 'UTIL']",3000,DEN
+Zeke Nnaji,"['PF', 'C', 'F', 'UTIL']",3000,DEN
+Facundo Campazzo,"['PG', 'G', 'UTIL']",3000,DEN
+Markus Howard,"['PG', 'G', 'UTIL']",3000,DEN
+Rayjon Tucker,"['SF', 'F', 'UTIL']",3000,DEN
+Davon Reed,"['SF', 'F', 'UTIL']",3000,DEN
+Tarik Black,"['C', 'UTIL']",3000,DEN
+James Ennis III,"['SF', 'F', 'UTIL']",3000,DEN
+Carlik Jones,"['PG', 'SG', 'G', 'UTIL']",3000,DEN
+Giorgi Bezhanishvili,"['SF', 'PF', 'F', 'UTIL']",3000,DEN
+Petr Cornelie,"['PF', 'F', 'UTIL']",3000,DEN
+Rob Edwards,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
+Justin Jaworski,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
+Mamadi Diakite,"['SF', 'PF', 'F', 'UTIL']",3000,OKC
+Zavier Simpson,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
+Scotty Hopson,"['SG', 'G', 'UTIL']",3000,OKC
+Paul Watson,"['SF', 'F', 'UTIL']",3000,OKC
+Melvin Frazier Jr.,"['SF', 'F', 'UTIL']",3000,OKC
+KZ Okpala,"['SF', 'F', 'UTIL']",3000,OKC
+Mike Muscala,"['PF', 'F', 'UTIL']",3000,OKC
+Jeremiah Robinson-Earl,"['PF', 'C', 'F', 'UTIL']",3000,OKC
+Jaylen Hoard,"['PF', 'F', 'UTIL']",3000,OKC
+Gabriel Deck,"['SF', 'F', 'UTIL']",3000,OKC
+Marc Gasol,"['C', 'UTIL']",3000,MEM
+Sean McDermott,"['SG', 'G', 'UTIL']",3000,MEM
+Santi Aldama,"['PF', 'C', 'F', 'UTIL']",3000,MEM
+Shaq Buchanan,"['PG', 'G', 'UTIL']",3000,MEM
+Tyrell Terry,"['PG', 'SG', 'G', 'UTIL']",3000,MEM
+Matthew Hurt,"['SF', 'PF', 'F', 'UTIL']",3000,MEM
+DaQuan Jeffries,"['SG', 'G', 'UTIL']",3000,MEM
+Jon Teske,"['C', 'UTIL']",3000,MEM
+Sam Merrill,"['PG', 'SG', 'G', 'UTIL']",3000,MEM
+Romeo Weems,"['SF', 'PF', 'F', 'UTIL']",3000,MEM
+Killian Tillie,"['PF', 'C', 'F', 'UTIL']",3000,MEM
+Yves Pons,"['SF', 'F', 'UTIL']",3000,MEM
+Dakota Mathias,"['PG', 'G', 'UTIL']",3000,MEM
+David Stockton,"['PG', 'G', 'UTIL']",3000,MEM
+Jarrett Culver,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,MEM
+Carsen Edwards,"['PG', 'G', 'UTIL']",3000,MEM
+Shaquille Harrison,"['SG', 'G', 'UTIL']",3000,MEM
+Jalen Lecque,"['PG', 'G', 'UTIL']",3000,MIL
+Javin DeLaurier,"['C', 'UTIL']",3000,MIL
+Jeff Teague,"['PG', 'G', 'UTIL']",3000,MIL
+Georgios Kalaitzakis,"['SF', 'F', 'UTIL']",3000,MIL
+Lindell Wigginton,"['PG', 'G', 'UTIL']",3000,MIL
+Elijah Bryant,"['SG', 'G', 'UTIL']",3000,MIL
+Johnny O'Bryant III,"['PF', 'F', 'UTIL']",3000,MIL
+Langston Galloway,"['SG', 'G', 'UTIL']",3000,MIL
+George Hill,"['PG', 'G', 'UTIL']",3000,MIL
+Sandro Mamukelashvili,"['C', 'UTIL']",3000,MIL
+Thanasis Antetokounmpo,"['SF', 'PF', 'F', 'UTIL']",3000,MIL
+Greg Monroe,"['C', 'UTIL']",3000,MIL
+Aric Holman,"['PF', 'F', 'UTIL']",3000,MIA
+Javonte Smart,"['PG', 'G', 'UTIL']",3000,MIA
+Dru Smith,"['PG', 'SG', 'G', 'UTIL']",3000,MIA
+Udonis Haslem,"['C', 'UTIL']",3000,MIA
+Kyle Guy,"['PG', 'G', 'UTIL']",3000,MIA
+Marcus Garrett,"['PG', 'SG', 'G', 'UTIL']",3000,MIA
+Dewayne Dedmon,"['C', 'UTIL']",3000,MIA
+Mario Chalmers,"['PG', 'G', 'UTIL']",3000,MIA
+Haywood Highsmith,"['SF', 'F', 'UTIL']",3000,MIA
+Omer Yurtseven,"['C', 'UTIL']",3000,MIA
+Chris Silva,"['PF', 'F', 'UTIL']",3000,MIA
+David Duke Jr.,"['PG', 'SF', 'F', 'G', 'UTIL']",3000,BKN
+Marcus Zegarowski,"['PG', 'G', 'UTIL']",3000,BKN
+Day'Ron Sharpe,"['C', 'UTIL']",3000,BKN
+Edmond Sumner,"['PG', 'G', 'UTIL']",3000,BKN
+Jordan Bowden,"['SG', 'G', 'UTIL']",3000,BKN
+Brandon Rachal,"['PG', 'SG', 'G', 'UTIL']",3000,BKN
+Blake Griffin,"['PF', 'C', 'F', 'UTIL']",3000,BKN
+Nikola Milutinov,"['C', 'UTIL']",3000,BKN
+Elijah Millsap,"['SG', 'G', 'UTIL']",3000,BKN
+Josh Gray,"['PG', 'G', 'UTIL']",3000,BKN
+RaiQuan Gray,"['PF', 'F', 'UTIL']",3000,BKN
+Bryce Brown,"['PG', 'G', 'UTIL']",3000,BKN
+Aleem Ford,"['PF', 'F', 'UTIL']",3000,ORL
+Bol Bol,"['C', 'UTIL']",3000,ORL
+B.J. Johnson,"['SF', 'F', 'UTIL']",3000,ORL
+PJ Dozier,"['PG', 'G', 'UTIL']",3000,ORL
+Hassani Gravett,"['PG', 'SG', 'G', 'UTIL']",3000,ORL
+Devin Cannady,"['PG', 'G', 'UTIL']",3000,ORL
+E'Twaun Moore,"['SG', 'G', 'UTIL']",3000,ORL
+Jonathan Isaac,"['C', 'UTIL']",3000,ORL
+Gary Harris,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,ORL
+Mychal Mulder,"['SG', 'G', 'UTIL']",3000,ORL
+Robin Lopez,"['C', 'UTIL']",3000,ORL
+Sindarius Thornwell,"['SG', 'G', 'UTIL']",3000,ORL
+Jeremiah Tilmon,"['SF', 'PF', 'F', 'UTIL']",3000,ORL
+Freddie Gillespie,"['SF', 'PF', 'F', 'UTIL']",3000,ORL
+Matt Coleman III,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
+Louis King,"['PF', 'F', 'UTIL']",3000,SAC
+Ade Murkey,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
+Jahmi'us Ramsey,"['SG', 'G', 'UTIL']",3000,SAC
+Neemias Queta,"['C', 'UTIL']",3000,SAC
+Josh Jackson,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,SAC
+Emmanuel Mudiay,"['PG', 'G', 'UTIL']",3000,SAC
+DJ Steward,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
+Moe Harkless,"['PF', 'F', 'UTIL']",3000,SAC
+Justin Champagnie,"['SF', 'PF', 'F', 'UTIL']",3000,TOR
+Alex Antetokounmpo,"['SF', 'F', 'UTIL']",3000,TOR
+Svi Mykhailiuk,"['SG', 'G', 'UTIL']",3000,TOR
+Josh Hall,"['SF', 'F', 'UTIL']",3000,TOR
+Aron Baynes,"['C', 'UTIL']",3000,TOR
+Daniel Oturu,"['C', 'UTIL']",3000,TOR
+D.J. Wilson,"['PF', 'F', 'UTIL']",3000,TOR
+Sam Dekker,"['SF', 'F', 'UTIL']",3000,TOR
+David Johnson,"['PG', 'G', 'UTIL']",3000,TOR
+Isaac Bonga,"['SF', 'F', 'UTIL']",3000,TOR
+Juwan Morgan,"['PF', 'F', 'UTIL']",3000,TOR
+Breein Tyree,"['SG', 'G', 'UTIL']",3000,TOR
+Ashton Hagans,"['PG', 'SG', 'G', 'UTIL']",3000,TOR
+Yuta Watanabe,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,TOR
+Amida Brimah,"['C', 'UTIL']",3000,IND
+Nate Hinton,"['SG', 'G', 'UTIL']",3000,IND
+T.J. Warren,"['PF', 'F', 'UTIL']",3000,IND
+Keifer Sykes,"['PG', 'G', 'UTIL']",3000,IND
+Juan Pablo Vaulet,"['SF', 'F', 'UTIL']",3000,IND
+Ahmad Caver,"['SG', 'G', 'UTIL']",3000,IND
+Ricky Rubio,"['PG', 'G', 'UTIL']",3000,IND
+Reggie Perry,"['PF', 'F', 'UTIL']",3000,IND
+Khyri Thomas,"['SG', 'G', 'UTIL']",3000,HOU
+Cameron McGriff,"['SF', 'PF', 'F', 'UTIL']",3000,POR
+Jarron Cumberland,"['SG', 'G', 'UTIL']",3000,POR
+Marcus Foster,"['PG', 'G', 'UTIL']",3000,HOU
+Daishen Nix,"['PG', 'G', 'UTIL']",3000,HOU
+Cody Zeller,"['C', 'UTIL']",3000,POR
+Dennis Smith Jr.,"['PG', 'G', 'UTIL']",3000,POR
+Quinn Cook,"['PG', 'G', 'UTIL']",3000,POR
+Didi Louzada,"['SF', 'F', 'UTIL']",3000,POR
+Keljin Blevins,"['SF', 'F', 'UTIL']",3000,POR
+Joe Ingles,"['PG', 'G', 'UTIL']",3000,POR
+Patrick Patterson,"['PF', 'F', 'UTIL']",3000,POR
+Enes Freedom,"['C', 'UTIL']",3000,HOU
+David Nwaba,"['SF', 'F', 'UTIL']",3000,HOU
+Tyler Bey,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,HOU
+Mfiondu Kabengele,"['PF', 'F', 'UTIL']",3000,HOU
+DeJon Jarreau,"['PG', 'SG', 'G', 'UTIL']",3000,HOU
+Dante Exum,"['SG', 'G', 'UTIL']",3000,HOU
+Usman Garuba,"['PF', 'C', 'F', 'UTIL']",3000,HOU
+Trevelin Queen,"['SG', 'G', 'UTIL']",3000,HOU
