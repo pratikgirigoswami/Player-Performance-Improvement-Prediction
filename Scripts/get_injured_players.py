@@ -35,9 +35,12 @@ if len(players) == 0:
     print('Error: No player in the injury report')
     sys.exit()
 
+# Pickle doesnt handle well lists
+players = ', '.join(players)
+
 # Save the pickle file with the injury report
 try:
     with open(reference_path_injury_report, 'wb') as f:
         pickle.dump(players, f)
 except:
-    print('Error saving the mean 10 games data')
+    print('Error saving the injury report')
