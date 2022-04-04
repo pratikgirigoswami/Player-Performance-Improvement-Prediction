@@ -1,22 +1,34 @@
+# Import the libraries
 import requests
 import pandas as pd
+import sys
+import io
+import pickle
+
+path_to_file = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/salaries_and_positions.pkl'
 
 # URL from DraftKing to download the csv file with all the salary and position data
-csv_url = 'https://www.draftkings.com/lineup/getavailableplayerscsv?contestTypeId=70&draftGroupId=65997'
-r = requests.get(csv_url, allow_redirects=True)
+try:
+    csv_url = 'https://www.draftkings.com/lineup/getavailableplayerscsv?contestTypeId=70&draftGroupId=65997'
+    r = requests.get(csv_url, allow_redirects=True)
+except:
+    print('There was an error loading the data from DraftKings website')
+    sys.exit()
 
-with open('Scripts/salaries_and_positions.csv', 'wb') as f:
-    f.write(r.content)
+try:
+    df = pd.read_csv(io.StringIO(r.content.decode('utf-8')))
+    df = df[['Name', 'Roster Position', 'Salary']]
+except:
+    print('There was an error reading the data from DraftKings.com')
+    sys.exit()
 
-df = pd.read_csv('Scripts/salaries_and_positions.csv')
-
-columns_to_drop = ['Position', 'Name + ID', 'ID', 'Game Info', 'AvgPointsPerGame']
-df.drop(columns=columns_to_drop, inplace=True)
-
-# Rename the columns acording to the SQL table
-df.columns = ['full_name', 'position', 'salary', 'team']
-
-positions = [pos.split('/') for pos in df['position']]
+positions = [pos.split('/') for pos in df['Roster Position']]
 df['position'] = positions
 
-df.to_csv('Scripts/salaries_and_positions.csv', index=False)
+df.drop(['Roster Position'], axis=1, inplace=True)
+
+try:
+    with open(path_to_file, 'wb') as f:
+        pickle.dump(df, f)
+except:
+    print('There was an error saving the salaries and positions file')

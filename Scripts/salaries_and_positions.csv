@@ -1,347 +1,347 @@
-full_name,position,salary,team
-Nikola Jokic,"['C', 'UTIL']",12000,DEN
-Giannis Antetokounmpo,"['SF', 'PF', 'F', 'UTIL']",11800,MIL
-Kevin Durant,"['SF', 'PF', 'F', 'UTIL']",11600,BKN
-Kyrie Irving,"['PG', 'SG', 'G', 'UTIL']",10900,BKN
-Darius Garland,"['PG', 'G', 'UTIL']",10200,CLE
-Ja Morant,"['PG', 'G', 'UTIL']",10100,MEM
-Shai Gilgeous-Alexander,"['PG', 'G', 'UTIL']",10000,OKC
-Domantas Sabonis,"['C', 'UTIL']",9900,SAC
-Tyrese Haliburton,"['PG', 'SG', 'G', 'UTIL']",9800,IND
-De'Aaron Fox,"['PG', 'G', 'UTIL']",9300,SAC
-Pascal Siakam,"['PF', 'C', 'F', 'UTIL']",9200,TOR
-DeMar DeRozan,"['PF', 'F', 'UTIL']",8900,CHI
-Jrue Holiday,"['PG', 'G', 'UTIL']",8800,MIL
-Damian Lillard,"['PG', 'G', 'UTIL']",8800,POR
-Khris Middleton,"['SG', 'SF', 'F', 'G', 'UTIL']",8700,MIL
-Fred VanVleet,"['PG', 'SG', 'G', 'UTIL']",8700,TOR
-Jusuf Nurkic,"['C', 'UTIL']",8600,POR
-Zach LaVine,"['SG', 'G', 'UTIL']",8500,CHI
-Wendell Carter Jr.,"['PF', 'C', 'F', 'UTIL']",8500,ORL
-Christian Wood,"['C', 'UTIL']",8500,HOU
-Nikola Vucevic,"['C', 'UTIL']",8400,CHI
-Jimmy Butler,"['SF', 'PF', 'F', 'UTIL']",8400,MIA
-Bam Adebayo,"['C', 'UTIL']",8300,MIA
-Evan Mobley,"['PF', 'C', 'F', 'UTIL']",8100,CLE
-Scottie Barnes,"['SF', 'PF', 'F', 'UTIL']",8100,TOR
-Josh Hart,"['SG', 'G', 'UTIL']",8100,POR
-Ben Simmons,"['PG', 'G', 'UTIL']",8000,BKN
-Anfernee Simons,"['PG', 'G', 'UTIL']",8000,POR
-Buddy Hield,"['SG', 'SF', 'F', 'G', 'UTIL']",7900,IND
-Josh Giddey,"['PG', 'SG', 'G', 'UTIL']",7800,OKC
-Desmond Bane,"['SG', 'G', 'UTIL']",7800,MEM
-John Wall,"['PG', 'G', 'UTIL']",7800,HOU
-Jarrett Allen,"['C', 'UTIL']",7600,CLE
-Malcolm Brogdon,"['PG', 'G', 'UTIL']",7500,IND
-Jaren Jackson Jr.,"['PF', 'C', 'F', 'UTIL']",7400,MEM
-Bobby Portis,"['PF', 'C', 'F', 'UTIL']",7400,MIL
-Tyler Herro,"['PG', 'SG', 'G', 'UTIL']",7300,MIA
-Trendon Watford,"['PF', 'C', 'F', 'UTIL']",7200,POR
-Cole Anthony,"['PG', 'G', 'UTIL']",7100,ORL
-Brandon Williams,"['PG', 'G', 'UTIL']",7000,POR
-Kyle Lowry,"['PG', 'G', 'UTIL']",6800,MIA
-Steven Adams,"['C', 'UTIL']",6600,MEM
-Drew Eubanks,"['C', 'UTIL']",6600,POR
-Kevin Love,"['PF', 'C', 'F', 'UTIL']",6500,CLE
-Lonzo Ball,"['PG', 'G', 'UTIL']",6400,CHI
-Lauri Markkanen,"['SF', 'PF', 'F', 'UTIL']",6400,CLE
-Bruce Brown,"['SF', 'F', 'UTIL']",6400,BKN
-Gary Trent Jr.,"['SG', 'SF', 'F', 'G', 'UTIL']",6300,TOR
-Kevin Porter Jr.,"['PG', 'G', 'UTIL']",6200,HOU
-Luguentz Dort,"['PF', 'F', 'UTIL']",6100,OKC
-Darius Bazley,"['PF', 'C', 'F', 'UTIL']",6100,OKC
-Davion Mitchell,"['PG', 'SG', 'G', 'UTIL']",6000,SAC
-Harrison Barnes,"['SF', 'PF', 'F', 'UTIL']",6000,SAC
-Justise Winslow,"['SF', 'PF', 'F', 'UTIL']",6000,POR
-Victor Oladipo,"['PG', 'SG', 'G', 'UTIL']",5900,MIA
-Seth Curry,"['SG', 'SF', 'F', 'G', 'UTIL']",5900,BKN
-Franz Wagner,"['SF', 'F', 'UTIL']",5900,ORL
-Aleksej Pokusevski,"['SF', 'PF', 'F', 'UTIL']",5800,OKC
-Dillon Brooks,"['SG', 'SF', 'F', 'G', 'UTIL']",5800,MEM
-Andre Drummond,"['C', 'UTIL']",5800,BKN
-Trey Lyles,"['PF', 'C', 'F', 'UTIL']",5800,SAC
-Isaiah Jackson,"['PF', 'C', 'F', 'UTIL']",5800,IND
-Jalen Green,"['PG', 'SG', 'G', 'UTIL']",5800,HOU
-Tre Mann,"['PG', 'SG', 'G', 'UTIL']",5700,OKC
-Mo Bamba,"['C', 'UTIL']",5700,ORL
-Malachi Flynn,"['PG', 'G', 'UTIL']",5700,TOR
-Oshae Brissett,"['SF', 'PF', 'F', 'UTIL']",5700,IND
-Caris LeVert,"['PG', 'SG', 'G', 'UTIL']",5600,CLE
-Jalen Smith,"['PF', 'C', 'F', 'UTIL']",5600,IND
-Terence Davis,"['PG', 'G', 'UTIL']",5500,SAC
-Goga Bitadze,"['C', 'UTIL']",5500,IND
-OG Anunoby,"['SG', 'SF', 'F', 'G', 'UTIL']",5500,TOR
-Alperen Sengun,"['PF', 'C', 'F', 'UTIL']",5500,HOU
-Aaron Gordon,"['SF', 'PF', 'F', 'UTIL']",5400,DEN
-Donte DiVincenzo,"['SG', 'SF', 'F', 'G', 'UTIL']",5400,SAC
-Myles Turner,"['C', 'UTIL']",5400,IND
-Will Barton,"['SG', 'G', 'UTIL']",5300,DEN
-De'Anthony Melton,"['PG', 'SG', 'G', 'UTIL']",5300,MEM
-Alex Caruso,"['PG', 'SG', 'G', 'UTIL']",5200,CHI
-Michael Porter Jr.,"['PF', 'F', 'UTIL']",5200,DEN
-Bones Hyland,"['PG', 'SG', 'G', 'UTIL']",5200,DEN
-Chris Boucher,"['PF', 'F', 'UTIL']",5200,TOR
-Coby White,"['PG', 'SG', 'G', 'UTIL']",5100,CHI
-Tyus Jones,"['PG', 'G', 'UTIL']",5100,MEM
-Goran Dragic,"['PG', 'G', 'UTIL']",5100,BKN
-Nassir Little,"['PF', 'F', 'UTIL']",5100,POR
-Isaiah Roby,"['PF', 'C', 'F', 'UTIL']",5000,OKC
-Chuma Okeke,"['SF', 'PF', 'F', 'UTIL']",4800,ORL
-Precious Achiuwa,"['C', 'UTIL']",4800,TOR
-Brook Lopez,"['C', 'UTIL']",4700,MIL
-Kyle Anderson,"['SF', 'PF', 'F', 'UTIL']",4700,MEM
-Jalen Suggs,"['PG', 'SG', 'G', 'UTIL']",4700,ORL
-Dennis Schroder,"['PG', 'SG', 'G', 'UTIL']",4700,HOU
-CJ Elleby,"['SG', 'SF', 'F', 'G', 'UTIL']",4700,POR
-Ayo Dosunmu,"['PG', 'G', 'UTIL']",4600,CHI
-Monte Morris,"['PG', 'G', 'UTIL']",4600,DEN
-Kenrich Williams,"['PF', 'F', 'UTIL']",4600,OKC
-Grayson Allen,"['SG', 'SF', 'F', 'G', 'UTIL']",4600,MIL
-Brandon Clarke,"['PF', 'C', 'F', 'UTIL']",4600,MEM
-Nicolas Claxton,"['C', 'UTIL']",4600,BKN
-Chris Duarte,"['SG', 'SF', 'F', 'G', 'UTIL']",4600,IND
-Kris Dunn,"['PG', 'G', 'UTIL']",4600,POR
-Jamal Murray,"['SG', 'G', 'UTIL']",4500,DEN
-Pat Connaughton,"['SF', 'PF', 'F', 'UTIL']",4500,MIL
-LaMarcus Aldridge,"['PF', 'C', 'F', 'UTIL']",4500,BKN
-Damian Jones,"['C', 'UTIL']",4400,SAC
-Moritz Wagner,"['PF', 'C', 'F', 'UTIL']",4400,ORL
-Eric Bledsoe,"['PG', 'G', 'UTIL']",4400,POR
-Markelle Fultz,"['PG', 'G', 'UTIL']",4300,ORL
-R.J. Hampton,"['PG', 'SG', 'G', 'UTIL']",4200,ORL
-Jae'Sean Tate,"['PF', 'F', 'UTIL']",4200,HOU
-Isaac Okoro,"['SG', 'SF', 'F', 'G', 'UTIL']",4100,CLE
-DeMarcus Cousins,"['C', 'UTIL']",4100,DEN
-Aaron Wiggins,"['SF', 'F', 'UTIL']",4100,OKC
-Jevon Carter,"['PG', 'SG', 'G', 'UTIL']",4100,MIL
-Max Strus,"['SG', 'SF', 'F', 'G', 'UTIL']",4100,MIA
-T.J. McConnell,"['PG', 'G', 'UTIL']",4100,IND
-Terry Taylor,"['PF', 'C', 'F', 'UTIL']",4100,IND
-Rajon Rondo,"['PG', 'G', 'UTIL']",4000,CLE
-Chimezie Metu,"['PF', 'F', 'UTIL']",4000,SAC
-Justin Anderson,"['SF', 'F', 'UTIL']",4000,IND
-Ben McLemore,"['SG', 'G', 'UTIL']",4000,POR
-Lamar Stevens,"['SG', 'SF', 'F', 'G', 'UTIL']",3900,CLE
-Caleb Martin,"['SF', 'F', 'UTIL']",3900,MIA
-Justin Holiday,"['SG', 'G', 'UTIL']",3900,SAC
-Cedi Osman,"['SG', 'SF', 'F', 'G', 'UTIL']",3800,CLE
-Theo Maledon,"['PG', 'G', 'UTIL']",3800,OKC
-Richaun Holmes,"['C', 'UTIL']",3800,SAC
-Lance Stephenson,"['PG', 'SF', 'F', 'G', 'UTIL']",3800,IND
-Keon Johnson,"['SG', 'SF', 'F', 'G', 'UTIL']",3800,POR
-Ty Jerome,"['PG', 'G', 'UTIL']",3700,OKC
-John Konchar,"['SG', 'SF', 'F', 'G', 'UTIL']",3700,MEM
-Joe Harris,"['SG', 'G', 'UTIL']",3700,BKN
-Duncan Robinson,"['SG', 'G', 'UTIL']",3700,MIA
-Vit Krejci,"['PG', 'SG', 'G', 'UTIL']",3600,OKC
-Jeff Green,"['SF', 'PF', 'F', 'UTIL']",3600,DEN
-Serge Ibaka,"['PF', 'C', 'F', 'UTIL']",3600,MIL
-P.J. Tucker,"['PF', 'F', 'UTIL']",3600,MIA
-Jeremy Lamb,"['SF', 'F', 'UTIL']",3600,SAC
-Dean Wade,"['SF', 'F', 'UTIL']",3500,CLE
-Javonte Green,"['SF', 'F', 'UTIL']",3500,CHI
-JaMychal Green,"['PF', 'C', 'F', 'UTIL']",3500,DEN
-Ziaire Williams,"['SF', 'F', 'UTIL']",3500,MEM
-Patty Mills,"['PG', 'SG', 'G', 'UTIL']",3500,BKN
-Khem Birch,"['C', 'UTIL']",3500,TOR
-KJ Martin,"['PF', 'C', 'F', 'UTIL']",3500,HOU
-Greg Brown,"['PF', 'C', 'F', 'UTIL']",3500,POR
-DeAndre' Bembry,"['SG', 'G', 'UTIL']",3400,MIL
-Gabe Vincent,"['PG', 'G', 'UTIL']",3400,MIA
-Cameron Thomas,"['SG', 'SF', 'F', 'G', 'UTIL']",3400,BKN
-Michael Carter-Williams,"['PG', 'G', 'UTIL']",3400,ORL
-Jeff Dowtin,"['PG', 'SG', 'G', 'UTIL']",3400,ORL
-Duane Washington Jr.,"['SG', 'G', 'UTIL']",3400,IND
-Dalano Banton,"['PG', 'G', 'UTIL']",3400,TOR
-Eric Gordon,"['SG', 'SF', 'F', 'G', 'UTIL']",3400,HOU
-Patrick Williams,"['SF', 'PF', 'F', 'UTIL']",3300,CHI
-Bryn Forbes,"['SG', 'G', 'UTIL']",3300,DEN
-Xavier Tillman,"['C', 'UTIL']",3300,MEM
-Jordan Nwora,"['SF', 'PF', 'F', 'UTIL']",3300,MIL
-Kessler Edwards,"['PF', 'F', 'UTIL']",3300,BKN
-Terrence Ross,"['SG', 'SF', 'F', 'G', 'UTIL']",3300,ORL
-Alex Len,"['C', 'UTIL']",3300,SAC
-Thaddeus Young,"['PF', 'C', 'F', 'UTIL']",3300,TOR
-Josh Christopher,"['SG', 'SF', 'F', 'G', 'UTIL']",3300,HOU
-Elijah Hughes,"['SF', 'F', 'UTIL']",3300,POR
-Tristan Thompson,"['C', 'UTIL']",3200,CHI
-Austin Rivers,"['SG', 'SF', 'F', 'G', 'UTIL']",3200,DEN
-Derrick Favors,"['C', 'UTIL']",3200,OKC
-Wesley Matthews,"['SG', 'SF', 'F', 'G', 'UTIL']",3200,MIL
-James Johnson,"['PF', 'C', 'F', 'UTIL']",3200,BKN
-Admiral Schofield,"['PF', 'F', 'UTIL']",3200,ORL
-Armoni Brooks,"['PG', 'G', 'UTIL']",3200,TOR
-Garrison Mathews,"['SF', 'F', 'UTIL']",3200,HOU
-Brandon Goodwin,"['PG', 'G', 'UTIL']",3100,CLE
-Olivier Sarr,"['C', 'UTIL']",3100,OKC
-Markieff Morris,"['PF', 'C', 'F', 'UTIL']",3100,MIA
-Ignas Brazdeikis,"['SF', 'PF', 'F', 'UTIL']",3100,ORL
-Bruno Fernando,"['C', 'UTIL']",3100,HOU
-RJ Nembhard,"['PG', 'G', 'UTIL']",3000,CLE
-Anderson Varejao,"['C', 'UTIL']",3000,CLE
-Tacko Fall,"['C', 'UTIL']",3000,CLE
-Mitch Ballock,"['PG', 'SG', 'G', 'UTIL']",3000,CLE
-Malik Newman,"['PG', 'G', 'UTIL']",3000,CLE
-Dylan Windler,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,CLE
-Kevin Pangos,"['PG', 'G', 'UTIL']",3000,CLE
-Ed Davis,"['C', 'UTIL']",3000,CLE
-Tim Frazier,"['PG', 'G', 'UTIL']",3000,CLE
-Tre Scott,"['SF', 'PF', 'F', 'UTIL']",3000,CLE
-Collin Sexton,"['PG', 'G', 'UTIL']",3000,CLE
-Moses Brown,"['C', 'UTIL']",3000,CLE
-Troy Brown Jr.,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
-Derrick Jones Jr.,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
-Bryce Alford,"['PG', 'G', 'UTIL']",3000,CHI
-Tyler Cook,"['PF', 'C', 'F', 'UTIL']",3000,CHI
-Devon Dotson,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
-Ersan Ilyasova,"['PF', 'F', 'UTIL']",3000,CHI
-Malcolm Hill,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,CHI
-Matt Thomas,"['SG', 'G', 'UTIL']",3000,CHI
-Troy Baxter,"['SF', 'PF', 'F', 'UTIL']",3000,CHI
-Jordan Bell,"['PF', 'F', 'UTIL']",3000,CHI
-Ethan Thompson,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
-Tony Bradley,"['C', 'UTIL']",3000,CHI
-Mac McClung,"['PG', 'SG', 'G', 'UTIL']",3000,CHI
-Marko Simonovic,"['C', 'UTIL']",3000,CHI
-Alfonzo McKinnie,"['SF', 'F', 'UTIL']",3000,CHI
-Lindy Waters III,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,OKC
-Vlatko Cancar,"['SF', 'F', 'UTIL']",3000,DEN
-Zeke Nnaji,"['PF', 'C', 'F', 'UTIL']",3000,DEN
-Facundo Campazzo,"['PG', 'G', 'UTIL']",3000,DEN
-Markus Howard,"['PG', 'G', 'UTIL']",3000,DEN
-Rayjon Tucker,"['SF', 'F', 'UTIL']",3000,DEN
-Davon Reed,"['SF', 'F', 'UTIL']",3000,DEN
-Tarik Black,"['C', 'UTIL']",3000,DEN
-James Ennis III,"['SF', 'F', 'UTIL']",3000,DEN
-Carlik Jones,"['PG', 'SG', 'G', 'UTIL']",3000,DEN
-Giorgi Bezhanishvili,"['SF', 'PF', 'F', 'UTIL']",3000,DEN
-Petr Cornelie,"['PF', 'F', 'UTIL']",3000,DEN
-Rob Edwards,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
-Justin Jaworski,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
-Mamadi Diakite,"['SF', 'PF', 'F', 'UTIL']",3000,OKC
-Zavier Simpson,"['PG', 'SG', 'G', 'UTIL']",3000,OKC
-Scotty Hopson,"['SG', 'G', 'UTIL']",3000,OKC
-Paul Watson,"['SF', 'F', 'UTIL']",3000,OKC
-Melvin Frazier Jr.,"['SF', 'F', 'UTIL']",3000,OKC
-KZ Okpala,"['SF', 'F', 'UTIL']",3000,OKC
-Mike Muscala,"['PF', 'F', 'UTIL']",3000,OKC
-Jeremiah Robinson-Earl,"['PF', 'C', 'F', 'UTIL']",3000,OKC
-Jaylen Hoard,"['PF', 'F', 'UTIL']",3000,OKC
-Gabriel Deck,"['SF', 'F', 'UTIL']",3000,OKC
-Marc Gasol,"['C', 'UTIL']",3000,MEM
-Sean McDermott,"['SG', 'G', 'UTIL']",3000,MEM
-Santi Aldama,"['PF', 'C', 'F', 'UTIL']",3000,MEM
-Shaq Buchanan,"['PG', 'G', 'UTIL']",3000,MEM
-Tyrell Terry,"['PG', 'SG', 'G', 'UTIL']",3000,MEM
-Matthew Hurt,"['SF', 'PF', 'F', 'UTIL']",3000,MEM
-DaQuan Jeffries,"['SG', 'G', 'UTIL']",3000,MEM
-Jon Teske,"['C', 'UTIL']",3000,MEM
-Sam Merrill,"['PG', 'SG', 'G', 'UTIL']",3000,MEM
-Romeo Weems,"['SF', 'PF', 'F', 'UTIL']",3000,MEM
-Killian Tillie,"['PF', 'C', 'F', 'UTIL']",3000,MEM
-Yves Pons,"['SF', 'F', 'UTIL']",3000,MEM
-Dakota Mathias,"['PG', 'G', 'UTIL']",3000,MEM
-David Stockton,"['PG', 'G', 'UTIL']",3000,MEM
-Jarrett Culver,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,MEM
-Carsen Edwards,"['PG', 'G', 'UTIL']",3000,MEM
-Shaquille Harrison,"['SG', 'G', 'UTIL']",3000,MEM
-Jalen Lecque,"['PG', 'G', 'UTIL']",3000,MIL
-Javin DeLaurier,"['C', 'UTIL']",3000,MIL
-Jeff Teague,"['PG', 'G', 'UTIL']",3000,MIL
-Georgios Kalaitzakis,"['SF', 'F', 'UTIL']",3000,MIL
-Lindell Wigginton,"['PG', 'G', 'UTIL']",3000,MIL
-Elijah Bryant,"['SG', 'G', 'UTIL']",3000,MIL
-Johnny O'Bryant III,"['PF', 'F', 'UTIL']",3000,MIL
-Langston Galloway,"['SG', 'G', 'UTIL']",3000,MIL
-George Hill,"['PG', 'G', 'UTIL']",3000,MIL
-Sandro Mamukelashvili,"['C', 'UTIL']",3000,MIL
-Thanasis Antetokounmpo,"['SF', 'PF', 'F', 'UTIL']",3000,MIL
-Greg Monroe,"['C', 'UTIL']",3000,MIL
-Aric Holman,"['PF', 'F', 'UTIL']",3000,MIA
-Javonte Smart,"['PG', 'G', 'UTIL']",3000,MIA
-Dru Smith,"['PG', 'SG', 'G', 'UTIL']",3000,MIA
-Udonis Haslem,"['C', 'UTIL']",3000,MIA
-Kyle Guy,"['PG', 'G', 'UTIL']",3000,MIA
-Marcus Garrett,"['PG', 'SG', 'G', 'UTIL']",3000,MIA
-Dewayne Dedmon,"['C', 'UTIL']",3000,MIA
-Mario Chalmers,"['PG', 'G', 'UTIL']",3000,MIA
-Haywood Highsmith,"['SF', 'F', 'UTIL']",3000,MIA
-Omer Yurtseven,"['C', 'UTIL']",3000,MIA
-Chris Silva,"['PF', 'F', 'UTIL']",3000,MIA
-David Duke Jr.,"['PG', 'SF', 'F', 'G', 'UTIL']",3000,BKN
-Marcus Zegarowski,"['PG', 'G', 'UTIL']",3000,BKN
-Day'Ron Sharpe,"['C', 'UTIL']",3000,BKN
-Edmond Sumner,"['PG', 'G', 'UTIL']",3000,BKN
-Jordan Bowden,"['SG', 'G', 'UTIL']",3000,BKN
-Brandon Rachal,"['PG', 'SG', 'G', 'UTIL']",3000,BKN
-Blake Griffin,"['PF', 'C', 'F', 'UTIL']",3000,BKN
-Nikola Milutinov,"['C', 'UTIL']",3000,BKN
-Elijah Millsap,"['SG', 'G', 'UTIL']",3000,BKN
-Josh Gray,"['PG', 'G', 'UTIL']",3000,BKN
-RaiQuan Gray,"['PF', 'F', 'UTIL']",3000,BKN
-Bryce Brown,"['PG', 'G', 'UTIL']",3000,BKN
-Aleem Ford,"['PF', 'F', 'UTIL']",3000,ORL
-Bol Bol,"['C', 'UTIL']",3000,ORL
-B.J. Johnson,"['SF', 'F', 'UTIL']",3000,ORL
-PJ Dozier,"['PG', 'G', 'UTIL']",3000,ORL
-Hassani Gravett,"['PG', 'SG', 'G', 'UTIL']",3000,ORL
-Devin Cannady,"['PG', 'G', 'UTIL']",3000,ORL
-E'Twaun Moore,"['SG', 'G', 'UTIL']",3000,ORL
-Jonathan Isaac,"['C', 'UTIL']",3000,ORL
-Gary Harris,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,ORL
-Mychal Mulder,"['SG', 'G', 'UTIL']",3000,ORL
-Robin Lopez,"['C', 'UTIL']",3000,ORL
-Sindarius Thornwell,"['SG', 'G', 'UTIL']",3000,ORL
-Jeremiah Tilmon,"['SF', 'PF', 'F', 'UTIL']",3000,ORL
-Freddie Gillespie,"['SF', 'PF', 'F', 'UTIL']",3000,ORL
-Matt Coleman III,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
-Louis King,"['PF', 'F', 'UTIL']",3000,SAC
-Ade Murkey,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
-Jahmi'us Ramsey,"['SG', 'G', 'UTIL']",3000,SAC
-Neemias Queta,"['C', 'UTIL']",3000,SAC
-Josh Jackson,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,SAC
-Emmanuel Mudiay,"['PG', 'G', 'UTIL']",3000,SAC
-DJ Steward,"['PG', 'SG', 'G', 'UTIL']",3000,SAC
-Moe Harkless,"['PF', 'F', 'UTIL']",3000,SAC
-Justin Champagnie,"['SF', 'PF', 'F', 'UTIL']",3000,TOR
-Alex Antetokounmpo,"['SF', 'F', 'UTIL']",3000,TOR
-Svi Mykhailiuk,"['SG', 'G', 'UTIL']",3000,TOR
-Josh Hall,"['SF', 'F', 'UTIL']",3000,TOR
-Aron Baynes,"['C', 'UTIL']",3000,TOR
-Daniel Oturu,"['C', 'UTIL']",3000,TOR
-D.J. Wilson,"['PF', 'F', 'UTIL']",3000,TOR
-Sam Dekker,"['SF', 'F', 'UTIL']",3000,TOR
-David Johnson,"['PG', 'G', 'UTIL']",3000,TOR
-Isaac Bonga,"['SF', 'F', 'UTIL']",3000,TOR
-Juwan Morgan,"['PF', 'F', 'UTIL']",3000,TOR
-Breein Tyree,"['SG', 'G', 'UTIL']",3000,TOR
-Ashton Hagans,"['PG', 'SG', 'G', 'UTIL']",3000,TOR
-Yuta Watanabe,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,TOR
-Amida Brimah,"['C', 'UTIL']",3000,IND
-Nate Hinton,"['SG', 'G', 'UTIL']",3000,IND
-T.J. Warren,"['PF', 'F', 'UTIL']",3000,IND
-Keifer Sykes,"['PG', 'G', 'UTIL']",3000,IND
-Juan Pablo Vaulet,"['SF', 'F', 'UTIL']",3000,IND
-Ahmad Caver,"['SG', 'G', 'UTIL']",3000,IND
-Ricky Rubio,"['PG', 'G', 'UTIL']",3000,IND
-Reggie Perry,"['PF', 'F', 'UTIL']",3000,IND
-Khyri Thomas,"['SG', 'G', 'UTIL']",3000,HOU
-Cameron McGriff,"['SF', 'PF', 'F', 'UTIL']",3000,POR
-Jarron Cumberland,"['SG', 'G', 'UTIL']",3000,POR
-Marcus Foster,"['PG', 'G', 'UTIL']",3000,HOU
-Daishen Nix,"['PG', 'G', 'UTIL']",3000,HOU
-Cody Zeller,"['C', 'UTIL']",3000,POR
-Dennis Smith Jr.,"['PG', 'G', 'UTIL']",3000,POR
-Quinn Cook,"['PG', 'G', 'UTIL']",3000,POR
-Didi Louzada,"['SF', 'F', 'UTIL']",3000,POR
-Keljin Blevins,"['SF', 'F', 'UTIL']",3000,POR
-Joe Ingles,"['PG', 'G', 'UTIL']",3000,POR
-Patrick Patterson,"['PF', 'F', 'UTIL']",3000,POR
-Enes Freedom,"['C', 'UTIL']",3000,HOU
-David Nwaba,"['SF', 'F', 'UTIL']",3000,HOU
-Tyler Bey,"['SG', 'SF', 'F', 'G', 'UTIL']",3000,HOU
-Mfiondu Kabengele,"['PF', 'F', 'UTIL']",3000,HOU
-DeJon Jarreau,"['PG', 'SG', 'G', 'UTIL']",3000,HOU
-Dante Exum,"['SG', 'G', 'UTIL']",3000,HOU
-Usman Garuba,"['PF', 'C', 'F', 'UTIL']",3000,HOU
-Trevelin Queen,"['SG', 'G', 'UTIL']",3000,HOU
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+C,Nikola Jokic (21833099) (LOCKED),Nikola Jokic,21833099,C/UTIL,12000,Final,DEN,61.33
+SF/PF,Giannis Antetokounmpo (21833101) (LOCKED),Giannis Antetokounmpo,21833101,SF/PF/F/UTIL,11800,Final,MIL,58.29
+SF/PF,Kevin Durant (21833105) (LOCKED),Kevin Durant,21833105,SF/PF/F/UTIL,11600,Final,BKN,51.98
+PG/SG,Kyrie Irving (21833109) (LOCKED),Kyrie Irving,21833109,PG/SG/G/UTIL,10900,Final,BKN,45.19
+PG,Darius Garland (21833113) (LOCKED),Darius Garland,21833113,PG/G/UTIL,10200,Final,CLE,41.64
+PG,Ja Morant (21833116) (LOCKED),Ja Morant,21833116,PG/G/UTIL,10100,Final,MEM,47.27
+PG,Shai Gilgeous-Alexander (21833119) (LOCKED),Shai Gilgeous-Alexander,21833119,PG/G/UTIL,10000,Final,OKC,43.37
+C,Domantas Sabonis (21833122) (LOCKED),Domantas Sabonis,21833122,C/UTIL,9900,Final,SAC,44.73
+PG/SG,Tyrese Haliburton (21833124) (LOCKED),Tyrese Haliburton,21833124,PG/SG/G/UTIL,9800,Final,IND,37.53
+PG,De'Aaron Fox (21833128) (LOCKED),De'Aaron Fox,21833128,PG/G/UTIL,9300,Final,SAC,38.94
+PF/C,Pascal Siakam (21833131) (LOCKED),Pascal Siakam,21833131,PF/C/F/UTIL,9200,Final,TOR,44.11
+PF,DeMar DeRozan (21833135) (LOCKED),DeMar DeRozan,21833135,PF/F/UTIL,8900,Final,CHI,43.80
+PG,Jrue Holiday (21833141) (LOCKED),Jrue Holiday,21833141,PG/G/UTIL,8800,Final,MIL,38.52
+PG,Damian Lillard (21833138) (LOCKED),Damian Lillard,21833138,PG/G/UTIL,8800,Final,POR,42.60
+SG/SF,Khris Middleton (21833144) (LOCKED),Khris Middleton,21833144,SG/SF/F/G/UTIL,8700,Final,MIL,37.70
+PG/SG,Fred VanVleet (21833149) (LOCKED),Fred VanVleet,21833149,PG/SG/G/UTIL,8700,Final,TOR,41.38
+C,Jusuf Nurkic (21833153) (LOCKED),Jusuf Nurkic,21833153,C/UTIL,8600,Final,POR,36.15
+SG,Zach LaVine (21833159) (LOCKED),Zach LaVine,21833159,SG/G/UTIL,8500,Final,CHI,39.29
+PF/C,Wendell Carter Jr. (21833155) (LOCKED),Wendell Carter Jr.,21833155,PF/C/F/UTIL,8500,Final,ORL,35.18
+C,Christian Wood (21833162) (LOCKED),Christian Wood,21833162,C/UTIL,8500,Final,HOU,38.21
+C,Nikola Vucevic (21833168) (LOCKED),Nikola Vucevic,21833168,C/UTIL,8400,Final,CHI,41.69
+SF/PF,Jimmy Butler (21833164) (LOCKED),Jimmy Butler,21833164,SF/PF/F/UTIL,8400,Final,MIA,41.03
+C,Bam Adebayo (21833170) (LOCKED),Bam Adebayo,21833170,C/UTIL,8300,Final,MIA,40.56
+PF/C,Evan Mobley (21833179) (LOCKED),Evan Mobley,21833179,PF/C/F/UTIL,8100,Final,CLE,33.53
+SF/PF,Scottie Barnes (21833175) (LOCKED),Scottie Barnes,21833175,SF/PF/F/UTIL,8100,Final,TOR,33.60
+SG,Josh Hart (21833172) (LOCKED),Josh Hart,21833172,SG/G/UTIL,8100,Final,POR,32.84
+PG,Ben Simmons (21833183) (LOCKED),Ben Simmons,21833183,PG/G/UTIL,8000,Final,BKN,0
+PG,Anfernee Simons (21833186) (LOCKED),Anfernee Simons,21833186,PG/G/UTIL,8000,Final,POR,28.34
+SG/SF,Buddy Hield (21833189) (LOCKED),Buddy Hield,21833189,SG/SF/F/G/UTIL,7900,Final,IND,28.11
+PG/SG,Josh Giddey (21833194) (LOCKED),Josh Giddey,21833194,PG/SG/G/UTIL,7800,Final,OKC,34.04
+SG,Desmond Bane (21833201) (LOCKED),Desmond Bane,21833201,SG/G/UTIL,7800,Final,MEM,31.80
+PG,John Wall (21833198) (LOCKED),John Wall,21833198,PG/G/UTIL,7800,Final,HOU,0
+C,Jarrett Allen (21833204) (LOCKED),Jarrett Allen,21833204,C/UTIL,7600,Final,CLE,36.32
+PG,Malcolm Brogdon (21833206) (LOCKED),Malcolm Brogdon,21833206,PG/G/UTIL,7500,Final,IND,36.85
+PF/C,Jaren Jackson Jr. (21833209) (LOCKED),Jaren Jackson Jr.,21833209,PF/C/F/UTIL,7400,Final,MEM,31.74
+PF/C,Bobby Portis (21833213) (LOCKED),Bobby Portis,21833213,PF/C/F/UTIL,7400,Final,MIL,31.64
+PG/SG,Tyler Herro (21833217) (LOCKED),Tyler Herro,21833217,PG/SG/G/UTIL,7300,Final,MIA,34.30
+PF/C,Trendon Watford (21833221) (LOCKED),Trendon Watford,21833221,PF/C/F/UTIL,7200,Final,POR,17.20
+PG,Cole Anthony (21833225) (LOCKED),Cole Anthony,21833225,PG/G/UTIL,7100,Final,ORL,33.4
+PG,Brandon Williams (21833228) (LOCKED),Brandon Williams,21833228,PG/G/UTIL,7000,Final,POR,25.94
+PG,Kyle Lowry (21833231) (LOCKED),Kyle Lowry,21833231,PG/G/UTIL,6800,Final,MIA,33.28
+C,Steven Adams (21833234) (LOCKED),Steven Adams,21833234,C/UTIL,6600,Final,MEM,27.34
+C,Drew Eubanks (21833236) (LOCKED),Drew Eubanks,21833236,C/UTIL,6600,Final,POR,17.35
+PF/C,Kevin Love (21833238) (LOCKED),Kevin Love,21833238,PF/C/F/UTIL,6500,Final,CLE,27.52
+PG,Lonzo Ball (21833242) (LOCKED),Lonzo Ball,21833242,PG/G/UTIL,6400,Final,CHI,33.46
+SF/PF,Lauri Markkanen (21833248) (LOCKED),Lauri Markkanen,21833248,SF/PF/F/UTIL,6400,Final,CLE,26.79
+SF,Bruce Brown (21833245) (LOCKED),Bruce Brown,21833245,SF/F/UTIL,6400,Final,BKN,20.57
+SG/SF,Gary Trent Jr. (21833252) (LOCKED),Gary Trent Jr.,21833252,SG/SF/F/G/UTIL,6300,Final,TOR,29.63
+PG,Kevin Porter Jr. (21833257) (LOCKED),Kevin Porter Jr.,21833257,PG/G/UTIL,6200,Final,HOU,32.26
+PF,Luguentz Dort (21833260) (LOCKED),Luguentz Dort,21833260,PF/F/UTIL,6100,Final,OKC,27.90
+PF/C,Darius Bazley (21833263) (LOCKED),Darius Bazley,21833263,PF/C/F/UTIL,6100,Final,OKC,24.59
+PG/SG,Davion Mitchell (21833267) (LOCKED),Davion Mitchell,21833267,PG/SG/G/UTIL,6000,Final,SAC,21.80
+SF/PF,Harrison Barnes (21833275) (LOCKED),Harrison Barnes,21833275,SF/PF/F/UTIL,6000,Final,SAC,29.76
+SF/PF,Justise Winslow (21833271) (LOCKED),Justise Winslow,21833271,SF/PF/F/UTIL,6000,Final,POR,15.80
+PG/SG,Victor Oladipo (21833279) (LOCKED),Victor Oladipo,21833279,PG/SG/G/UTIL,5900,Final,MIA,16.25
+SG/SF,Seth Curry (21833283) (LOCKED),Seth Curry,21833283,SG/SF/F/G/UTIL,5900,Final,BKN,26.92
+SF,Franz Wagner (21833288) (LOCKED),Franz Wagner,21833288,SF/F/UTIL,5900,Final,ORL,27.94
+SF/PF,Aleksej Pokusevski (21833306) (LOCKED),Aleksej Pokusevski,21833306,SF/PF/F/UTIL,5800,Final,OKC,19.74
+SG/SF,Dillon Brooks (21833301) (LOCKED),Dillon Brooks,21833301,SG/SF/F/G/UTIL,5800,Final,MEM,29.35
+C,Andre Drummond (21833295) (LOCKED),Andre Drummond,21833295,C/UTIL,5800,Final,BKN,25.51
+PF/C,Trey Lyles (21833310) (LOCKED),Trey Lyles,21833310,PF/C/F/UTIL,5800,Final,SAC,20.24
+PF/C,Isaiah Jackson (21833291) (LOCKED),Isaiah Jackson,21833291,PF/C/F/UTIL,5800,Final,IND,16.93
+PG/SG,Jalen Green (21833297) (LOCKED),Jalen Green,21833297,PG/SG/G/UTIL,5800,Final,HOU,26.95
+PG/SG,Tre Mann (21833319) (LOCKED),Tre Mann,21833319,PG/SG/G/UTIL,5700,Final,OKC,18.45
+C,Mo Bamba (21833314) (LOCKED),Mo Bamba,21833314,C/UTIL,5700,Final,ORL,27.19
+PG,Malachi Flynn (21833316) (LOCKED),Malachi Flynn,21833316,PG/G/UTIL,5700,Final,TOR,9.77
+SF/PF,Oshae Brissett (21833323) (LOCKED),Oshae Brissett,21833323,SF/PF/F/UTIL,5700,Final,IND,19.34
+PG/SG,Caris LeVert (21833331) (LOCKED),Caris LeVert,21833331,PG/SG/G/UTIL,5600,Final,CLE,30.81
+PF/C,Jalen Smith (21833327) (LOCKED),Jalen Smith,21833327,PF/C/F/UTIL,5600,Final,IND,19.5
+PG,Terence Davis (21833335) (LOCKED),Terence Davis,21833335,PG/G/UTIL,5500,Final,SAC,18.95
+C,Goga Bitadze (21833342) (LOCKED),Goga Bitadze,21833342,C/UTIL,5500,Final,IND,15.40
+SG/SF,OG Anunoby (21833344) (LOCKED),OG Anunoby,21833344,SG/SF/F/G/UTIL,5500,Final,TOR,32.54
+PF/C,Alperen Sengun (21833338) (LOCKED),Alperen Sengun,21833338,PF/C/F/UTIL,5500,Final,HOU,22.82
+SF/PF,Aaron Gordon (21833356) (LOCKED),Aaron Gordon,21833356,SF/PF/F/UTIL,5400,Final,DEN,28.01
+SG/SF,Donte DiVincenzo (21833351) (LOCKED),Donte DiVincenzo,21833351,SG/SF/F/G/UTIL,5400,Final,SAC,20.99
+C,Myles Turner (21833349) (LOCKED),Myles Turner,21833349,C/UTIL,5400,Final,IND,30.62
+SG,Will Barton (21833360) (LOCKED),Will Barton,21833360,SG/G/UTIL,5300,Final,DEN,29.24
+PG/SG,De'Anthony Melton (21833363) (LOCKED),De'Anthony Melton,21833363,PG/SG/G/UTIL,5300,Final,MEM,24.46
+PG/SG,Alex Caruso (21833377) (LOCKED),Alex Caruso,21833377,PG/SG/G/UTIL,5200,Final,CHI,22.17
+PF,Michael Porter Jr. (21833367) (LOCKED),Michael Porter Jr.,21833367,PF/F/UTIL,5200,Final,DEN,23.64
+PG/SG,Bones Hyland (21833373) (LOCKED),Bones Hyland,21833373,PG/SG/G/UTIL,5200,Final,DEN,19.43
+PF,Chris Boucher (21833370) (LOCKED),Chris Boucher,21833370,PF/F/UTIL,5200,Final,TOR,20.88
+PG/SG,Coby White (21833387) (LOCKED),Coby White,21833387,PG/SG/G/UTIL,5100,Final,CHI,22.55
+PG,Tyus Jones (21833391) (LOCKED),Tyus Jones,21833391,PG/G/UTIL,5100,Final,MEM,20.42
+PG,Goran Dragic (21833384) (LOCKED),Goran Dragic,21833384,PG/G/UTIL,5100,Final,BKN,19.25
+PF,Nassir Little (21833381) (LOCKED),Nassir Little,21833381,PF/F/UTIL,5100,Final,POR,21.86
+PF/C,Isaiah Roby (21833394) (LOCKED),Isaiah Roby,21833394,PF/C/F/UTIL,5000,Final,OKC,20.75
+SF/PF,Chuma Okeke (21833398) (LOCKED),Chuma Okeke,21833398,SF/PF/F/UTIL,4800,Final,ORL,21.18
+C,Precious Achiuwa (21833402) (LOCKED),Precious Achiuwa,21833402,C/UTIL,4800,Final,TOR,20.98
+C,Brook Lopez (21833417) (LOCKED),Brook Lopez,21833417,C/UTIL,4700,Final,MIL,18.78
+SF/PF,Kyle Anderson (21833419) (LOCKED),Kyle Anderson,21833419,SF/PF/F/UTIL,4700,Final,MEM,21.32
+PG/SG,Jalen Suggs (21833408) (LOCKED),Jalen Suggs,21833408,PG/SG/G/UTIL,4700,Final,ORL,25.49
+PG/SG,Dennis Schroder (21833404) (LOCKED),Dennis Schroder,21833404,PG/SG/G/UTIL,4700,Final,HOU,26.15
+SG/SF,CJ Elleby (21833412) (LOCKED),CJ Elleby,21833412,SG/SF/F/G/UTIL,4700,Final,POR,14.22
+PG,Ayo Dosunmu (21833448) (LOCKED),Ayo Dosunmu,21833448,PG/G/UTIL,4600,Final,CHI,19.06
+PG,Monte Morris (21833423) (LOCKED),Monte Morris,21833423,PG/G/UTIL,4600,Final,DEN,25.35
+PF,Kenrich Williams (21833442) (LOCKED),Kenrich Williams,21833442,PF/F/UTIL,4600,Final,OKC,18.48
+SG/SF,Grayson Allen (21833431) (LOCKED),Grayson Allen,21833431,SG/SF/F/G/UTIL,4600,Final,MIL,20.36
+PF/C,Brandon Clarke (21833438) (LOCKED),Brandon Clarke,21833438,PF/C/F/UTIL,4600,Final,MEM,22.5
+C,Nicolas Claxton (21833436) (LOCKED),Nicolas Claxton,21833436,C/UTIL,4600,Final,BKN,20.03
+SG/SF,Chris Duarte (21833426) (LOCKED),Chris Duarte,21833426,SG/SF/F/G/UTIL,4600,Final,IND,23.77
+PG,Kris Dunn (21833445) (LOCKED),Kris Dunn,21833445,PG/G/UTIL,4600,Final,POR,23.15
+SG,Jamal Murray (21833455) (LOCKED),Jamal Murray,21833455,SG/G/UTIL,4500,Final,DEN,0
+SF/PF,Pat Connaughton (21833458) (LOCKED),Pat Connaughton,21833458,SF/PF/F/UTIL,4500,Final,MIL,20.39
+PF/C,LaMarcus Aldridge (21833451) (LOCKED),LaMarcus Aldridge,21833451,PF/C/F/UTIL,4500,Final,BKN,24.28
+C,Damian Jones (21833462) (LOCKED),Damian Jones,21833462,C/UTIL,4400,Final,SAC,16.94
+PF/C,Moritz Wagner (21833467) (LOCKED),Moritz Wagner,21833467,PF/C/F/UTIL,4400,Final,ORL,16.08
+PG,Eric Bledsoe (21833464) (LOCKED),Eric Bledsoe,21833464,PG/G/UTIL,4400,Final,POR,23.06
+PG,Markelle Fultz (21833471) (LOCKED),Markelle Fultz,21833471,PG/G/UTIL,4300,Final,ORL,23.07
+PG/SG,R.J. Hampton (21833474) (LOCKED),R.J. Hampton,21833474,PG/SG/G/UTIL,4200,Final,ORL,16.02
+PF,Jae'Sean Tate (21833478) (LOCKED),Jae'Sean Tate,21833478,PF/F/UTIL,4200,Final,HOU,25.50
+SG/SF,Isaac Okoro (21833486) (LOCKED),Isaac Okoro,21833486,SG/SF/F/G/UTIL,4100,Final,CLE,17.90
+C,DeMarcus Cousins (21833481) (LOCKED),DeMarcus Cousins,21833481,C/UTIL,4100,Final,DEN,20.3
+SF,Aaron Wiggins (21833500) (LOCKED),Aaron Wiggins,21833500,SF/F/UTIL,4100,Final,OKC,16.29
+PG/SG,Jevon Carter (21833503) (LOCKED),Jevon Carter,21833503,PG/SG/G/UTIL,4100,Final,MIL,9.83
+SG/SF,Max Strus (21833495) (LOCKED),Max Strus,21833495,SG/SF/F/G/UTIL,4100,Final,MIA,18.62
+PG,T.J. McConnell (21833483) (LOCKED),T.J. McConnell,21833483,PG/G/UTIL,4100,Final,IND,22.19
+PF/C,Terry Taylor (21833491) (LOCKED),Terry Taylor,21833491,PF/C/F/UTIL,4100,Final,IND,18.96
+PG,Rajon Rondo (21833510) (LOCKED),Rajon Rondo,21833510,PG/G/UTIL,4000,Final,CLE,16.02
+PF,Chimezie Metu (21833507) (LOCKED),Chimezie Metu,21833507,PF/F/UTIL,4000,Final,SAC,20.02
+SF,Justin Anderson (21833513) (LOCKED),Justin Anderson,21833513,SF/F/UTIL,4000,Final,IND,15.7
+SG,Ben McLemore (21833516) (LOCKED),Ben McLemore,21833516,SG/G/UTIL,4000,Final,POR,15.45
+SG/SF,Lamar Stevens (21833522) (LOCKED),Lamar Stevens,21833522,SG/SF/F/G/UTIL,3900,Final,CLE,11.78
+SF,Caleb Martin (21833527) (LOCKED),Caleb Martin,21833527,SF/F/UTIL,3900,Final,MIA,18.70
+SG,Justin Holiday (21833519) (LOCKED),Justin Holiday,21833519,SG/G/UTIL,3900,Final,SAC,19.02
+SG/SF,Cedi Osman (21833538) (LOCKED),Cedi Osman,21833538,SG/SF/F/G/UTIL,3800,Final,CLE,18.94
+PG,Theo Maledon (21833530) (LOCKED),Theo Maledon,21833530,PG/G/UTIL,3800,Final,OKC,15.02
+C,Richaun Holmes (21833548) (LOCKED),Richaun Holmes,21833548,C/UTIL,3800,Final,SAC,23.05
+PG/SF,Lance Stephenson (21833533) (LOCKED),Lance Stephenson,21833533,PG/SF/F/G/UTIL,3800,Final,IND,17.83
+SG/SF,Keon Johnson (21833543) (LOCKED),Keon Johnson,21833543,SG/SF/F/G/UTIL,3800,Final,POR,13.54
+PG,Ty Jerome (21833550) (LOCKED),Ty Jerome,21833550,PG/G/UTIL,3700,Final,OKC,14.16
+SG/SF,John Konchar (21833553) (LOCKED),John Konchar,21833553,SG/SF/F/G/UTIL,3700,Final,MEM,14.56
+SG,Joe Harris (21833558) (LOCKED),Joe Harris,21833558,SG/G/UTIL,3700,Final,BKN,20.11
+SG,Duncan Robinson (21833561) (LOCKED),Duncan Robinson,21833561,SG/G/UTIL,3700,Final,MIA,18.91
+PG/SG,Vit Krejci (21833564) (LOCKED),Vit Krejci,21833564,PG/SG/G/UTIL,3600,Final,OKC,13.77
+SF/PF,Jeff Green (21833572) (LOCKED),Jeff Green,21833572,SF/PF/F/UTIL,3600,Final,DEN,17.43
+PF/C,Serge Ibaka (21833568) (LOCKED),Serge Ibaka,21833568,PF/C/F/UTIL,3600,Final,MIL,15.61
+PF,P.J. Tucker (21833579) (LOCKED),P.J. Tucker,21833579,PF/F/UTIL,3600,Final,MIA,19.8
+SF,Jeremy Lamb (21833576) (LOCKED),Jeremy Lamb,21833576,SF/F/UTIL,3600,Final,SAC,14.71
+SF,Dean Wade (21833586) (LOCKED),Dean Wade,21833586,SF/F/UTIL,3500,Final,CLE,12.26
+SF,Javonte Green (21833589) (LOCKED),Javonte Green,21833589,SF/F/UTIL,3500,Final,CHI,16.87
+PF/C,JaMychal Green (21833599) (LOCKED),JaMychal Green,21833599,PF/C/F/UTIL,3500,Final,DEN,14.83
+SF,Ziaire Williams (21833596) (LOCKED),Ziaire Williams,21833596,SF/F/UTIL,3500,Final,MEM,13.49
+PG/SG,Patty Mills (21833592) (LOCKED),Patty Mills,21833592,PG/SG/G/UTIL,3500,Final,BKN,20.06
+C,Khem Birch (21833603) (LOCKED),Khem Birch,21833603,C/UTIL,3500,Final,TOR,13.06
+PF/C,KJ Martin (21833582) (LOCKED),KJ Martin,21833582,PF/C/F/UTIL,3500,Final,HOU,17.56
+PF/C,Greg Brown (21833605) (LOCKED),Greg Brown,21833605,PF/C/F/UTIL,3500,Final,POR,10.70
+SG,DeAndre' Bembry (21833617) (LOCKED),DeAndre' Bembry,21833617,SG/G/UTIL,3400,Final,MIL,12.98
+PG,Gabe Vincent (21833620) (LOCKED),Gabe Vincent,21833620,PG/G/UTIL,3400,Final,MIA,18.22
+SG/SF,Cameron Thomas (21833623) (LOCKED),Cameron Thomas,21833623,SG/SF/F/G/UTIL,3400,Final,BKN,14.96
+PG,Michael Carter-Williams (21833614) (LOCKED),Michael Carter-Williams,21833614,PG/G/UTIL,3400,Final,ORL,0
+PG/SG,Jeff Dowtin (21833628) (LOCKED),Jeff Dowtin,21833628,PG/SG/G/UTIL,3400,Final,ORL,7.39
+SG,Duane Washington Jr. (21833632) (LOCKED),Duane Washington Jr.,21833632,SG/G/UTIL,3400,Final,IND,15.83
+PG,Dalano Banton (21833635) (LOCKED),Dalano Banton,21833635,PG/G/UTIL,3400,Final,TOR,8.87
+SG/SF,Eric Gordon (21833609) (LOCKED),Eric Gordon,21833609,SG/SF/F/G/UTIL,3400,Final,HOU,21.72
+SF/PF,Patrick Williams (21833645) (LOCKED),Patrick Williams,21833645,SF/PF/F/UTIL,3300,Final,CHI,14.5
+SG,Bryn Forbes (21833666) (LOCKED),Bryn Forbes,21833666,SG/G/UTIL,3300,Final,DEN,13.02
+C,Xavier Tillman (21833643) (LOCKED),Xavier Tillman,21833643,C/UTIL,3300,Final,MEM,12.62
+SF/PF,Jordan Nwora (21833669) (LOCKED),Jordan Nwora,21833669,SF/PF/F/UTIL,3300,Final,MIL,15.22
+PF,Kessler Edwards (21833656) (LOCKED),Kessler Edwards,21833656,PF/F/UTIL,3300,Final,BKN,13.36
+SG/SF,Terrence Ross (21833649) (LOCKED),Terrence Ross,21833649,SG/SF/F/G/UTIL,3300,Final,ORL,17.23
+C,Alex Len (21833654) (LOCKED),Alex Len,21833654,C/UTIL,3300,Final,SAC,14.47
+PF/C,Thaddeus Young (21833659) (LOCKED),Thaddeus Young,21833659,PF/C/F/UTIL,3300,Final,TOR,16.21
+SG/SF,Josh Christopher (21833638) (LOCKED),Josh Christopher,21833638,SG/SF/F/G/UTIL,3300,Final,HOU,15.49
+SF,Elijah Hughes (21833663) (LOCKED),Elijah Hughes,21833663,SF/F/UTIL,3300,Final,POR,7.45
+C,Tristan Thompson (21833681) (LOCKED),Tristan Thompson,21833681,C/UTIL,3200,Final,CHI,14.36
+SG/SF,Austin Rivers (21833683) (LOCKED),Austin Rivers,21833683,SG/SF/F/G/UTIL,3200,Final,DEN,11.98
+C,Derrick Favors (21833688) (LOCKED),Derrick Favors,21833688,C/UTIL,3200,Final,OKC,13.58
+SG/SF,Wesley Matthews (21833673) (LOCKED),Wesley Matthews,21833673,SG/SF/F/G/UTIL,3200,Final,MIL,9.94
+PF/C,James Johnson (21833693) (LOCKED),James Johnson,21833693,PF/C/F/UTIL,3200,Final,BKN,14.85
+PF,Admiral Schofield (21833690) (LOCKED),Admiral Schofield,21833690,PF/F/UTIL,3200,Final,ORL,7.94
+PG,Armoni Brooks (21833697) (LOCKED),Armoni Brooks,21833697,PG/G/UTIL,3200,Final,TOR,11.43
+SF,Garrison Mathews (21833678) (LOCKED),Garrison Mathews,21833678,SF/F/UTIL,3200,Final,HOU,18.36
+PG,Brandon Goodwin (21833706) (LOCKED),Brandon Goodwin,21833706,PG/G/UTIL,3100,Final,CLE,12.82
+C,Olivier Sarr (21833709) (LOCKED),Olivier Sarr,21833709,C/UTIL,3100,Final,OKC,14.54
+PF/C,Markieff Morris (21833702) (LOCKED),Markieff Morris,21833702,PF/C/F/UTIL,3100,Final,MIA,13.54
+SF/PF,Ignas Brazdeikis (21833711) (LOCKED),Ignas Brazdeikis,21833711,SF/PF/F/UTIL,3100,Final,ORL,7.65
+C,Bruno Fernando (21833700) (LOCKED),Bruno Fernando,21833700,C/UTIL,3100,Final,HOU,6.26
+SG,Mychal Mulder (21833766) (LOCKED),Mychal Mulder,21833766,SG/G/UTIL,3000,Final,MIA,6.55
+PG,RJ Nembhard (21833858) (LOCKED),RJ Nembhard,21833858,PG/G/UTIL,3000,Final,CLE,3.19
+C,Anderson Varejao (21833861) (LOCKED),Anderson Varejao,21833861,C/UTIL,3000,Final,CLE,0
+C,Tacko Fall (21833863) (LOCKED),Tacko Fall,21833863,C/UTIL,3000,Final,CLE,4.93
+PG/SG,Mitch Ballock (21833865) (LOCKED),Mitch Ballock,21833865,PG/SG/G/UTIL,3000,Final,CLE,0
+PG,Malik Newman (21833869) (LOCKED),Malik Newman,21833869,PG/G/UTIL,3000,Final,CLE,10.25
+SG/SF,Dylan Windler (21833872) (LOCKED),Dylan Windler,21833872,SG/SF/F/G/UTIL,3000,Final,CLE,6.22
+PG,Kevin Pangos (21833877) (LOCKED),Kevin Pangos,21833877,PG/G/UTIL,3000,Final,CLE,4.30
+C,Ed Davis (21833880) (LOCKED),Ed Davis,21833880,C/UTIL,3000,Final,CLE,4.67
+PG,Tim Frazier (21833882) (LOCKED),Tim Frazier,21833882,PG/G/UTIL,3000,Final,CLE,9.77
+SF/PF,Tre Scott (21833885) (LOCKED),Tre Scott,21833885,SF/PF/F/UTIL,3000,Final,CLE,6.25
+PG,Collin Sexton (21833889) (LOCKED),Collin Sexton,21833889,PG/G/UTIL,3000,Final,CLE,24.14
+C,Moses Brown (21833892) (LOCKED),Moses Brown,21833892,C/UTIL,3000,Final,CLE,9.18
+SF/PF,Troy Brown Jr. (21834096) (LOCKED),Troy Brown Jr.,21834096,SF/PF/F/UTIL,3000,Final,CHI,10.52
+SF/PF,Derrick Jones Jr. (21834100) (LOCKED),Derrick Jones Jr.,21834100,SF/PF/F/UTIL,3000,Final,CHI,12.49
+PG,Bryce Alford (21834104) (LOCKED),Bryce Alford,21834104,PG/G/UTIL,3000,Final,CHI,0
+PF/C,Tyler Cook (21834107) (LOCKED),Tyler Cook,21834107,PF/C/F/UTIL,3000,Final,CHI,7.68
+PG/SG,Devon Dotson (21834111) (LOCKED),Devon Dotson,21834111,PG/SG/G/UTIL,3000,Final,CHI,5.75
+PF,Ersan Ilyasova (21834115) (LOCKED),Ersan Ilyasova,21834115,PF/F/UTIL,3000,Final,CHI,0
+SG/SF,Malcolm Hill (21834118) (LOCKED),Malcolm Hill,21834118,SG/SF/F/G/UTIL,3000,Final,CHI,8.29
+SG,Matt Thomas (21834123) (LOCKED),Matt Thomas,21834123,SG/G/UTIL,3000,Final,CHI,7.22
+SF/PF,Troy Baxter (21834126) (LOCKED),Troy Baxter,21834126,SF/PF/F/UTIL,3000,Final,CHI,0
+PF,Jordan Bell (21834130) (LOCKED),Jordan Bell,21834130,PF/F/UTIL,3000,Final,CHI,3.25
+PG/SG,Ethan Thompson (21834133) (LOCKED),Ethan Thompson,21834133,PG/SG/G/UTIL,3000,Final,CHI,0
+C,Tony Bradley (21834137) (LOCKED),Tony Bradley,21834137,C/UTIL,3000,Final,CHI,9.07
+PG/SG,Mac McClung (21834139) (LOCKED),Mac McClung,21834139,PG/SG/G/UTIL,3000,Final,CHI,1.5
+C,Marko Simonovic (21834143) (LOCKED),Marko Simonovic,21834143,C/UTIL,3000,Final,CHI,3.67
+SF,Alfonzo McKinnie (21834145) (LOCKED),Alfonzo McKinnie,21834145,SF/F/UTIL,3000,Final,CHI,6.98
+SG/SF,Lindy Waters III (21833727) (LOCKED),Lindy Waters III,21833727,SG/SF/F/G/UTIL,3000,Final,OKC,17.61
+SF,Vlatko Cancar (21833949) (LOCKED),Vlatko Cancar,21833949,SF/F/UTIL,3000,Final,DEN,8.41
+PF/C,Zeke Nnaji (21833952) (LOCKED),Zeke Nnaji,21833952,PF/C/F/UTIL,3000,Final,DEN,13.36
+PG,Facundo Campazzo (21833956) (LOCKED),Facundo Campazzo,21833956,PG/G/UTIL,3000,Final,DEN,15.33
+PG,Markus Howard (21833959) (LOCKED),Markus Howard,21833959,PG/G/UTIL,3000,Final,DEN,5.08
+SF,Rayjon Tucker (21833962) (LOCKED),Rayjon Tucker,21833962,SF/F/UTIL,3000,Final,DEN,6.5
+SF,Davon Reed (21833965) (LOCKED),Davon Reed,21833965,SF/F/UTIL,3000,Final,DEN,10.18
+C,Tarik Black (21833968) (LOCKED),Tarik Black,21833968,C/UTIL,3000,Final,DEN,0
+SF,James Ennis III (21833970) (LOCKED),James Ennis III,21833970,SF/F/UTIL,3000,Final,DEN,8.14
+PG/SG,Carlik Jones (21833973) (LOCKED),Carlik Jones,21833973,PG/SG/G/UTIL,3000,Final,DEN,3.15
+SF/PF,Giorgi Bezhanishvili (21833977) (LOCKED),Giorgi Bezhanishvili,21833977,SF/PF/F/UTIL,3000,Final,DEN,0
+PF,Petr Cornelie (21833981) (LOCKED),Petr Cornelie,21833981,PF/F/UTIL,3000,Final,DEN,2.96
+PG/SG,Rob Edwards (21834182) (LOCKED),Rob Edwards,21834182,PG/SG/G/UTIL,3000,Final,OKC,3.38
+PG/SG,Justin Jaworski (21834186) (LOCKED),Justin Jaworski,21834186,PG/SG/G/UTIL,3000,Final,OKC,0
+SF/PF,Mamadi Diakite (21834190) (LOCKED),Mamadi Diakite,21834190,SF/PF/F/UTIL,3000,Final,OKC,12.10
+PG/SG,Zavier Simpson (21834194) (LOCKED),Zavier Simpson,21834194,PG/SG/G/UTIL,3000,Final,OKC,0
+SG,Scotty Hopson (21834198) (LOCKED),Scotty Hopson,21834198,SG/G/UTIL,3000,Final,OKC,5.75
+SF,Paul Watson (21834201) (LOCKED),Paul Watson,21834201,SF/F/UTIL,3000,Final,OKC,9.97
+SF,Melvin Frazier Jr. (21834204) (LOCKED),Melvin Frazier Jr.,21834204,SF/F/UTIL,3000,Final,OKC,0
+SF,KZ Okpala (21834207) (LOCKED),KZ Okpala,21834207,SF/F/UTIL,3000,Final,OKC,8.25
+PF,Mike Muscala (21834210) (LOCKED),Mike Muscala,21834210,PF/F/UTIL,3000,Final,OKC,15.22
+PF/C,Jeremiah Robinson-Earl (21834213) (LOCKED),Jeremiah Robinson-Earl,21834213,PF/C/F/UTIL,3000,Final,OKC,17.97
+PF,Jaylen Hoard (21834217) (LOCKED),Jaylen Hoard,21834217,PF/F/UTIL,3000,Final,OKC,19.5
+SF,Gabriel Deck (21834220) (LOCKED),Gabriel Deck,21834220,SF/F/UTIL,3000,Final,OKC,5
+C,Marc Gasol (21833718) (LOCKED),Marc Gasol,21833718,C/UTIL,3000,Final,MEM,0
+SG,Sean McDermott (21833894) (LOCKED),Sean McDermott,21833894,SG/G/UTIL,3000,Final,MEM,0
+PF/C,Santi Aldama (21833897) (LOCKED),Santi Aldama,21833897,PF/C/F/UTIL,3000,Final,MEM,8.07
+PG,Shaq Buchanan (21833901) (LOCKED),Shaq Buchanan,21833901,PG/G/UTIL,3000,Final,MEM,4.25
+PG/SG,Tyrell Terry (21833904) (LOCKED),Tyrell Terry,21833904,PG/SG/G/UTIL,3000,Final,MEM,1
+SF/PF,Matthew Hurt (21833908) (LOCKED),Matthew Hurt,21833908,SF/PF/F/UTIL,3000,Final,MEM,0
+SG,DaQuan Jeffries (21833912) (LOCKED),DaQuan Jeffries,21833912,SG/G/UTIL,3000,Final,MEM,2
+C,Jon Teske (21833915) (LOCKED),Jon Teske,21833915,C/UTIL,3000,Final,MEM,2
+PG/SG,Sam Merrill (21833917) (LOCKED),Sam Merrill,21833917,PG/SG/G/UTIL,3000,Final,MEM,7.04
+SF/PF,Romeo Weems (21833921) (LOCKED),Romeo Weems,21833921,SF/PF/F/UTIL,3000,Final,MEM,0
+PF/C,Killian Tillie (21833925) (LOCKED),Killian Tillie,21833925,PF/C/F/UTIL,3000,Final,MEM,8.58
+SF,Yves Pons (21833929) (LOCKED),Yves Pons,21833929,SF/F/UTIL,3000,Final,MEM,1.44
+PG,Dakota Mathias (21833932) (LOCKED),Dakota Mathias,21833932,PG/G/UTIL,3000,Final,MEM,2.17
+PG,David Stockton (21833935) (LOCKED),David Stockton,21833935,PG/G/UTIL,3000,Final,MEM,0
+SG/SF,Jarrett Culver (21833938) (LOCKED),Jarrett Culver,21833938,SG/SF/F/G/UTIL,3000,Final,MEM,7.38
+PG,Carsen Edwards (21833943) (LOCKED),Carsen Edwards,21833943,PG/G/UTIL,3000,Final,MEM,34.75
+SG,Shaquille Harrison (21833946) (LOCKED),Shaquille Harrison,21833946,SG/G/UTIL,3000,Final,MEM,8.25
+PG,Jalen Lecque (21834148) (LOCKED),Jalen Lecque,21834148,PG/G/UTIL,3000,Final,MIL,0
+C,Javin DeLaurier (21834151) (LOCKED),Javin DeLaurier,21834151,C/UTIL,3000,Final,MIL,3.25
+PG,Jeff Teague (21834153) (LOCKED),Jeff Teague,21834153,PG/G/UTIL,3000,Final,MIL,0
+SF,Georgios Kalaitzakis (21834156) (LOCKED),Georgios Kalaitzakis,21834156,SF/F/UTIL,3000,Final,MIL,3.22
+PG,Lindell Wigginton (21834159) (LOCKED),Lindell Wigginton,21834159,PG/G/UTIL,3000,Final,MIL,6.65
+SG,Elijah Bryant (21834162) (LOCKED),Elijah Bryant,21834162,SG/G/UTIL,3000,Final,MIL,0
+PF,Johnny O'Bryant III (21834165) (LOCKED),Johnny O'Bryant III,21834165,PF/F/UTIL,3000,Final,MIL,0
+SG,Langston Galloway (21834168) (LOCKED),Langston Galloway,21834168,SG/G/UTIL,3000,Final,MIL,7.79
+PG,George Hill (21834171) (LOCKED),George Hill,21834171,PG/G/UTIL,3000,Final,MIL,15.13
+C,Sandro Mamukelashvili (21834174) (LOCKED),Sandro Mamukelashvili,21834174,C/UTIL,3000,Final,MIL,7.11
+SF/PF,Thanasis Antetokounmpo (21834176) (LOCKED),Thanasis Antetokounmpo,21834176,SF/PF/F/UTIL,3000,Final,MIL,7.26
+C,Greg Monroe (21834180) (LOCKED),Greg Monroe,21834180,C/UTIL,3000,Final,MIL,15.46
+PF,Aric Holman (21833826) (LOCKED),Aric Holman,21833826,PF/F/UTIL,3000,Final,MIA,0
+PG,Javonte Smart (21833829) (LOCKED),Javonte Smart,21833829,PG/G/UTIL,3000,Final,MIA,5.68
+PG/SG,Dru Smith (21833832) (LOCKED),Dru Smith,21833832,PG/SG/G/UTIL,3000,Final,MIA,0
+C,Udonis Haslem (21833836) (LOCKED),Udonis Haslem,21833836,C/UTIL,3000,Final,MIA,5.06
+PG,Kyle Guy (21833838) (LOCKED),Kyle Guy,21833838,PG/G/UTIL,3000,Final,MIA,7.22
+PG/SG,Marcus Garrett (21833841) (LOCKED),Marcus Garrett,21833841,PG/SG/G/UTIL,3000,Final,MIA,5.65
+C,Dewayne Dedmon (21833845) (LOCKED),Dewayne Dedmon,21833845,C/UTIL,3000,Final,MIA,16.26
+PG,Mario Chalmers (21833847) (LOCKED),Mario Chalmers,21833847,PG/G/UTIL,3000,Final,MIA,0
+SF,Haywood Highsmith (21833850) (LOCKED),Haywood Highsmith,21833850,SF/F/UTIL,3000,Final,MIA,4.02
+C,Omer Yurtseven (21833853) (LOCKED),Omer Yurtseven,21833853,C/UTIL,3000,Final,MIA,14.23
+PF,Chris Silva (21833855) (LOCKED),Chris Silva,21833855,PF/F/UTIL,3000,Final,MIA,7.95
+PG/SF,David Duke Jr. (21834058) (LOCKED),David Duke Jr.,21834058,PG/SF/F/G/UTIL,3000,Final,BKN,12.30
+PG,Marcus Zegarowski (21834063) (LOCKED),Marcus Zegarowski,21834063,PG/G/UTIL,3000,Final,BKN,0
+C,Day'Ron Sharpe (21834066) (LOCKED),Day'Ron Sharpe,21834066,C/UTIL,3000,Final,BKN,14.45
+PG,Edmond Sumner (21834068) (LOCKED),Edmond Sumner,21834068,PG/G/UTIL,3000,Final,BKN,0
+SG,Jordan Bowden (21834071) (LOCKED),Jordan Bowden,21834071,SG/G/UTIL,3000,Final,BKN,0
+PG/SG,Brandon Rachal (21834074) (LOCKED),Brandon Rachal,21834074,PG/SG/G/UTIL,3000,Final,BKN,0
+PF/C,Blake Griffin (21834078) (LOCKED),Blake Griffin,21834078,PF/C/F/UTIL,3000,Final,BKN,15.87
+C,Nikola Milutinov (21834082) (LOCKED),Nikola Milutinov,21834082,C/UTIL,3000,Final,BKN,0
+SG,Elijah Millsap (21834084) (LOCKED),Elijah Millsap,21834084,SG/G/UTIL,3000,Final,BKN,0
+PG,Josh Gray (21834087) (LOCKED),Josh Gray,21834087,PG/G/UTIL,3000,Final,BKN,0
+PF,RaiQuan Gray (21834090) (LOCKED),RaiQuan Gray,21834090,PF/F/UTIL,3000,Final,BKN,0
+PG,Bryce Brown (21834093) (LOCKED),Bryce Brown,21834093,PG/G/UTIL,3000,Final,BKN,0
+PF,Aleem Ford (21833738) (LOCKED),Aleem Ford,21833738,PF/F/UTIL,3000,Final,ORL,7.35
+C,Bol Bol (21833741) (LOCKED),Bol Bol,21833741,C/UTIL,3000,Final,ORL,5.38
+SF,B.J. Johnson (21833743) (LOCKED),B.J. Johnson,21833743,SF/F/UTIL,3000,Final,ORL,12.19
+PG,PJ Dozier (21833746) (LOCKED),PJ Dozier,21833746,PG/G/UTIL,3000,Final,ORL,14.12
+PG/SG,Hassani Gravett (21833749) (LOCKED),Hassani Gravett,21833749,PG/SG/G/UTIL,3000,Final,ORL,14.91
+PG,Devin Cannady (21833753) (LOCKED),Devin Cannady,21833753,PG/G/UTIL,3000,Final,ORL,16.5
+SG,E'Twaun Moore (21833756) (LOCKED),E'Twaun Moore,21833756,SG/G/UTIL,3000,Final,ORL,0
+C,Jonathan Isaac (21833759) (LOCKED),Jonathan Isaac,21833759,C/UTIL,3000,Final,ORL,0
+SG/SF,Gary Harris (21833761) (LOCKED),Gary Harris,21833761,SG/SF/F/G/UTIL,3000,Final,ORL,18.97
+C,Robin Lopez (21833769) (LOCKED),Robin Lopez,21833769,C/UTIL,3000,Final,ORL,14.48
+SG,Sindarius Thornwell (21833771) (LOCKED),Sindarius Thornwell,21833771,SG/G/UTIL,3000,Final,ORL,0
+SF/PF,Jeremiah Tilmon (21833774) (LOCKED),Jeremiah Tilmon,21833774,SF/PF/F/UTIL,3000,Final,ORL,0
+SF/PF,Freddie Gillespie (21833778) (LOCKED),Freddie Gillespie,21833778,SF/PF/F/UTIL,3000,Final,ORL,10.56
+PG/SG,Matt Coleman III (21834004) (LOCKED),Matt Coleman III,21834004,PG/SG/G/UTIL,3000,Final,SAC,0
+PF,Louis King (21834008) (LOCKED),Louis King,21834008,PF/F/UTIL,3000,Final,SAC,8.35
+PG/SG,Ade Murkey (21834011) (LOCKED),Ade Murkey,21834011,PG/SG/G/UTIL,3000,Final,SAC,0
+SG,Jahmi'us Ramsey (21834015) (LOCKED),Jahmi'us Ramsey,21834015,SG/G/UTIL,3000,Final,SAC,4.78
+C,Neemias Queta (21834018) (LOCKED),Neemias Queta,21834018,C/UTIL,3000,Final,SAC,5.73
+SG/SF,Josh Jackson (21834020) (LOCKED),Josh Jackson,21834020,SG/SF/F/G/UTIL,3000,Final,SAC,13.14
+PG,Emmanuel Mudiay (21834025) (LOCKED),Emmanuel Mudiay,21834025,PG/G/UTIL,3000,Final,SAC,5.25
+PG/SG,DJ Steward (21834028) (LOCKED),DJ Steward,21834028,PG/SG/G/UTIL,3000,Final,SAC,0
+PF,Moe Harkless (21834032) (LOCKED),Moe Harkless,21834032,PF/F/UTIL,3000,Final,SAC,10.62
+SF/PF,Justin Champagnie (21833782) (LOCKED),Justin Champagnie,21833782,SF/PF/F/UTIL,3000,Final,TOR,5.86
+SF,Alex Antetokounmpo (21833786) (LOCKED),Alex Antetokounmpo,21833786,SF/F/UTIL,3000,Final,TOR,0
+SG,Svi Mykhailiuk (21833789) (LOCKED),Svi Mykhailiuk,21833789,SG/G/UTIL,3000,Final,TOR,8.97
+SF,Josh Hall (21833792) (LOCKED),Josh Hall,21833792,SF/F/UTIL,3000,Final,TOR,0
+C,Aron Baynes (21833795) (LOCKED),Aron Baynes,21833795,C/UTIL,3000,Final,TOR,0
+C,Daniel Oturu (21833797) (LOCKED),Daniel Oturu,21833797,C/UTIL,3000,Final,TOR,6.42
+PF,D.J. Wilson (21833799) (LOCKED),D.J. Wilson,21833799,PF/F/UTIL,3000,Final,TOR,17.12
+SF,Sam Dekker (21833802) (LOCKED),Sam Dekker,21833802,SF/F/UTIL,3000,Final,TOR,0
+PG,David Johnson (21833805) (LOCKED),David Johnson,21833805,PG/G/UTIL,3000,Final,TOR,0
+SF,Isaac Bonga (21833808) (LOCKED),Isaac Bonga,21833808,SF/F/UTIL,3000,Final,TOR,3.08
+PF,Juwan Morgan (21833811) (LOCKED),Juwan Morgan,21833811,PF/F/UTIL,3000,Final,TOR,6
+SG,Breein Tyree (21833814) (LOCKED),Breein Tyree,21833814,SG/G/UTIL,3000,Final,TOR,0
+PG/SG,Ashton Hagans (21833817) (LOCKED),Ashton Hagans,21833817,PG/SG/G/UTIL,3000,Final,TOR,0
+SG/SF,Yuta Watanabe (21833821) (LOCKED),Yuta Watanabe,21833821,SG/SF/F/G/UTIL,3000,Final,TOR,9.60
+C,Amida Brimah (21834035) (LOCKED),Amida Brimah,21834035,C/UTIL,3000,Final,IND,0
+SG,Nate Hinton (21834037) (LOCKED),Nate Hinton,21834037,SG/G/UTIL,3000,Final,IND,-0.25
+PF,T.J. Warren (21834040) (LOCKED),T.J. Warren,21834040,PF/F/UTIL,3000,Final,IND,0
+PG,Keifer Sykes (21834043) (LOCKED),Keifer Sykes,21834043,PG/G/UTIL,3000,Final,IND,11.20
+SF,Juan Pablo Vaulet (21834046) (LOCKED),Juan Pablo Vaulet,21834046,SF/F/UTIL,3000,Final,IND,0
+SG,Ahmad Caver (21834049) (LOCKED),Ahmad Caver,21834049,SG/G/UTIL,3000,Final,IND,2
+PG,Ricky Rubio (21834052) (LOCKED),Ricky Rubio,21834052,PG/G/UTIL,3000,Final,IND,31.26
+PF,Reggie Perry (21834055) (LOCKED),Reggie Perry,21834055,PF/F/UTIL,3000,Final,IND,16.42
+SG,Khyri Thomas (21833715) (LOCKED),Khyri Thomas,21833715,SG/G/UTIL,3000,Final,HOU,0
+SF/PF,Cameron McGriff (21833720) (LOCKED),Cameron McGriff,21833720,SF/PF/F/UTIL,3000,Final,POR,13.42
+SG,Jarron Cumberland (21833724) (LOCKED),Jarron Cumberland,21833724,SG/G/UTIL,3000,Final,POR,2.42
+PG,Marcus Foster (21833732) (LOCKED),Marcus Foster,21833732,PG/G/UTIL,3000,Final,HOU,0
+PG,Daishen Nix (21833735) (LOCKED),Daishen Nix,21833735,PG/G/UTIL,3000,Final,HOU,8.56
+C,Cody Zeller (21833984) (LOCKED),Cody Zeller,21833984,C/UTIL,3000,Final,POR,12.88
+PG,Dennis Smith Jr. (21833986) (LOCKED),Dennis Smith Jr.,21833986,PG/G/UTIL,3000,Final,POR,16.36
+PG,Quinn Cook (21833989) (LOCKED),Quinn Cook,21833989,PG/G/UTIL,3000,Final,POR,0
+SF,Didi Louzada (21833992) (LOCKED),Didi Louzada,21833992,SF/F/UTIL,3000,Final,POR,5.6
+SF,Keljin Blevins (21833995) (LOCKED),Keljin Blevins,21833995,SF/F/UTIL,3000,Final,POR,6.63
+PG,Joe Ingles (21833998) (LOCKED),Joe Ingles,21833998,PG/G/UTIL,3000,Final,POR,17.73
+PF,Patrick Patterson (21834001) (LOCKED),Patrick Patterson,21834001,PF/F/UTIL,3000,Final,POR,0
+C,Enes Freedom (21834223) (LOCKED),Enes Freedom,21834223,C/UTIL,3000,Final,HOU,10.63
+SF,David Nwaba (21834225) (LOCKED),David Nwaba,21834225,SF/F/UTIL,3000,Final,HOU,12.38
+SG/SF,Tyler Bey (21834228) (LOCKED),Tyler Bey,21834228,SG/SF/F/G/UTIL,3000,Final,HOU,0
+PF,Mfiondu Kabengele (21834233) (LOCKED),Mfiondu Kabengele,21834233,PF/F/UTIL,3000,Final,HOU,0
+PG/SG,DeJon Jarreau (21834236) (LOCKED),DeJon Jarreau,21834236,PG/SG/G/UTIL,3000,Final,HOU,0
+SG,Dante Exum (21834240) (LOCKED),Dante Exum,21834240,SG/G/UTIL,3000,Final,HOU,0
+PF/C,Usman Garuba (21834243) (LOCKED),Usman Garuba,21834243,PF/C/F/UTIL,3000,Final,HOU,8.43
+SG,Trevelin Queen (21834247) (LOCKED),Trevelin Queen,21834247,SG/G/UTIL,3000,Final,HOU,8.2
