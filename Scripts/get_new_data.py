@@ -13,6 +13,7 @@ season = '2021-22'
 season_type = 'Regular Season'
 reference_path_game_by_game = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/game_by_game_dataset.pkl'
 reference_path_mean_10_games = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/mean_10_games_dataset.pkl'
+reference_path_model_input = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/model_input.pkl'
 
 # Array to store error messages
 errors = []
@@ -293,6 +294,16 @@ except:
     print(errors)
     sys.exit()
 
+# Save a dataset with the new data (model input)
+try:
+    with open(reference_path_model_input, 'wb') as f:
+        pickle.dump(new_mean_10_games_df, f)
+except:
+    errors.append('Error saving the input data')
+    print(errors)
+    sys.exit()
+
+# Update the mean 10 games dataset (all historical values)
 mean_10_games_df = pd.concat([mean_10_games_df, new_mean_10_games_df])
 mean_10_games_df.sort_values('Game Date', inplace=True)
 mean_10_games_df.reset_index(drop=True, inplace=True)
