@@ -54,7 +54,7 @@ except:
 predictions = model.predict(model_input)
 
 # Dictionary with the players' names as keys and the predictions as values
-model_output = {value: predictions[idx][0] for idx, value in enumerate(player_names)}
+model_output = {value.lower(): predictions[idx][0] for idx, value in enumerate(player_names)}
 
 # Save the model output dictionary
 try:
