@@ -40,6 +40,6 @@ new_model_input.drop(['Name lower', 'Injury'], axis=1, inplace=True)
 # Save the filtered data
 try:
     with open(path_model_input, 'wb') as f:
-        pickle.dump(path_model_input, f)
+        pickle.dump(new_model_input, f)
 except:
     print('Error saving the model_input file.')
