@@ -17,7 +17,7 @@ except:
 
 try:
     df = pd.read_csv(io.StringIO(r.content.decode('utf-8')))
-    df = df[['Name', 'Roster Position', 'Salary']]
+    df = df[['Name', 'Roster Position', 'Salary', 'TeamAbbrev']]
 except:
     print('There was an error reading the data from DraftKings.com')
     sys.exit()
