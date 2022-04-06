@@ -1,0 +1,133 @@
+"player_name","salary","team","position","draftking"
+"Nikola Jokic",12000.0,"DEN","['C', 'UTIL']",45.5788
+"Kevin Durant",11600.0,"BKN","['SF', 'PF', 'F', 'UTIL']",43.2328
+"Kyrie Irving",10900.0,"BKN","['PG', 'SG', 'G', 'UTIL']",41.0817
+"Darius Garland",10200.0,"CLE","['PG', 'G', 'UTIL']",35.728
+"Tyrese Haliburton",9800.0,"IND","['PG', 'SG', 'G', 'UTIL']",33.7618
+"Pascal Siakam",9200.0,"TOR","['PF', 'C', 'F', 'UTIL']",41.9645
+"DeMar DeRozan",8900.0,"CHI","['PF', 'F', 'UTIL']",41.8624
+"Jrue Holiday",8800.0,"MIL","['PG', 'G', 'UTIL']",36.9036
+"Khris Middleton",8700.0,"MIL","['SG', 'SF', 'F', 'G', 'UTIL']",40.4214
+"Fred VanVleet",8700.0,"TOR","['PG', 'SG', 'G', 'UTIL']",34.1704
+"Zach LaVine",8500.0,"CHI","['SG', 'G', 'UTIL']",39.0593
+"Nikola Vucevic",8400.0,"CHI","['C', 'UTIL']",33.3394
+"Jimmy Butler",8400.0,"MIA","['SF', 'PF', 'F', 'UTIL']",33.7407
+"Bam Adebayo",8300.0,"MIA","['C', 'UTIL']",34.7242
+"Scottie Barnes",8100.0,"TOR","['SF', 'PF', 'F', 'UTIL']",28.4754
+"Buddy Hield",7900.0,"IND","['SG', 'SF', 'F', 'G', 'UTIL']",28.7964
+"Desmond Bane",7800.0,"MEM","['SG', 'G', 'UTIL']",26.4517
+"Jaren Jackson Jr.",7400.0,"MEM","['PF', 'C', 'F', 'UTIL']",25.3446
+"Bobby Portis",7400.0,"MIL","['PF', 'C', 'F', 'UTIL']",22.9452
+"Tyler Herro",7300.0,"MIA","['PG', 'SG', 'G', 'UTIL']",33.0709
+"Steven Adams",6600.0,"MEM","['C', 'UTIL']",21.9774
+"Drew Eubanks",6600.0,"POR","['C', 'UTIL']",25.7057
+"Kevin Love",6500.0,"CLE","['PF', 'C', 'F', 'UTIL']",21.4537
+"Lauri Markkanen",6400.0,"CLE","['SF', 'PF', 'F', 'UTIL']",23.2901
+"Bruce Brown",6400.0,"BKN","['SF', 'F', 'UTIL']",26.698
+"Gary Trent Jr.",6300.0,"TOR","['SG', 'SF', 'F', 'G', 'UTIL']",25.9046
+"Kevin Porter Jr.",6200.0,"HOU","['PG', 'G', 'UTIL']",39.4454
+"Davion Mitchell",6000.0,"SAC","['PG', 'SG', 'G', 'UTIL']",33.5214
+"Harrison Barnes",6000.0,"SAC","['SF', 'PF', 'F', 'UTIL']",24.8933
+"Victor Oladipo",5900.0,"MIA","['PG', 'SG', 'G', 'UTIL']",23.3106
+"Aleksej Pokusevski",5800.0,"OKC","['SF', 'PF', 'F', 'UTIL']",31.3469
+"Andre Drummond",5800.0,"BKN","['C', 'UTIL']",27.0803
+"Trey Lyles",5800.0,"SAC","['PF', 'C', 'F', 'UTIL']",23.3347
+"Isaiah Jackson",5800.0,"IND","['PF', 'C', 'F', 'UTIL']",21.6951
+"Jalen Green",5800.0,"HOU","['PG', 'SG', 'G', 'UTIL']",29.5189
+"Mo Bamba",5700.0,"ORL","['C', 'UTIL']",21.9236
+"Oshae Brissett",5700.0,"IND","['SF', 'PF', 'F', 'UTIL']",22.5392
+"Caris LeVert",5600.0,"CLE","['PG', 'SG', 'G', 'UTIL']",25.4124
+"Jalen Smith",5600.0,"IND","['PF', 'C', 'F', 'UTIL']",22.9641
+"Alperen Sengun",5500.0,"HOU","['PF', 'C', 'F', 'UTIL']",23.3153
+"Aaron Gordon",5400.0,"DEN","['SF', 'PF', 'F', 'UTIL']",25.0018
+"Donte DiVincenzo",5400.0,"SAC","['SG', 'SF', 'F', 'G', 'UTIL']",22.5577
+"Will Barton",5300.0,"DEN","['SG', 'G', 'UTIL']",25.4185
+"De'Anthony Melton",5300.0,"MEM","['PG', 'SG', 'G', 'UTIL']",21.5397
+"Alex Caruso",5200.0,"CHI","['PG', 'SG', 'G', 'UTIL']",21.0566
+"Chris Boucher",5200.0,"TOR","['PF', 'F', 'UTIL']",21.9153
+"Coby White",5100.0,"CHI","['PG', 'SG', 'G', 'UTIL']",20.8322
+"Tyus Jones",5100.0,"MEM","['PG', 'G', 'UTIL']",23.5657
+"Isaiah Roby",5000.0,"OKC","['PF', 'C', 'F', 'UTIL']",22.0784
+"Chuma Okeke",4800.0,"ORL","['SF', 'PF', 'F', 'UTIL']",18.4956
+"Precious Achiuwa",4800.0,"TOR","['C', 'UTIL']",22.3519
+"Brook Lopez",4700.0,"MIL","['C', 'UTIL']",20.3747
+"Kyle Anderson",4700.0,"MEM","['SF', 'PF', 'F', 'UTIL']",20.2325
+"CJ Elleby",4700.0,"POR","['SG', 'SF', 'F', 'G', 'UTIL']",22.0415
+"Ayo Dosunmu",4600.0,"CHI","['PG', 'G', 'UTIL']",22.0382
+"Monte Morris",4600.0,"DEN","['PG', 'G', 'UTIL']",25.3706
+"Grayson Allen",4600.0,"MIL","['SG', 'SF', 'F', 'G', 'UTIL']",17.1798
+"Brandon Clarke",4600.0,"MEM","['PF', 'C', 'F', 'UTIL']",21.6351
+"Nicolas Claxton",4600.0,"BKN","['C', 'UTIL']",21.5909
+"Kris Dunn",4600.0,"POR","['PG', 'G', 'UTIL']",25.5658
+"Pat Connaughton",4500.0,"MIL","['SF', 'PF', 'F', 'UTIL']",15.7722
+"Damian Jones",4400.0,"SAC","['C', 'UTIL']",23.9955
+"Moritz Wagner",4400.0,"ORL","['PF', 'C', 'F', 'UTIL']",20.1067
+"Markelle Fultz",4300.0,"ORL","['PG', 'G', 'UTIL']",27.4063
+"R.J. Hampton",4200.0,"ORL","['PG', 'SG', 'G', 'UTIL']",19.3565
+"Jae'Sean Tate",4200.0,"HOU","['PF', 'F', 'UTIL']",20.8976
+"Isaac Okoro",4100.0,"CLE","['SG', 'SF', 'F', 'G', 'UTIL']",21.4431
+"Aaron Wiggins",4100.0,"OKC","['SF', 'F', 'UTIL']",24.1387
+"Jevon Carter",4100.0,"MIL","['PG', 'SG', 'G', 'UTIL']",15.2786
+"Max Strus",4100.0,"MIA","['SG', 'SF', 'F', 'G', 'UTIL']",20.5725
+"Terry Taylor",4100.0,"IND","['PF', 'C', 'F', 'UTIL']",21.5176
+"Rajon Rondo",4000.0,"CLE","['PG', 'G', 'UTIL']",19.5391
+"Chimezie Metu",4000.0,"SAC","['PF', 'F', 'UTIL']",19.9198
+"Ben McLemore",4000.0,"POR","['SG', 'G', 'UTIL']",20.5747
+"Lamar Stevens",3900.0,"CLE","['SG', 'SF', 'F', 'G', 'UTIL']",22.5473
+"Justin Holiday",3900.0,"SAC","['SG', 'G', 'UTIL']",16.1028
+"Cedi Osman",3800.0,"CLE","['SG', 'SF', 'F', 'G', 'UTIL']",14.1567
+"Theo Maledon",3800.0,"OKC","['PG', 'G', 'UTIL']",24.3616
+"Keon Johnson",3800.0,"POR","['SG', 'SF', 'F', 'G', 'UTIL']",19.9235
+"John Konchar",3700.0,"MEM","['SG', 'SF', 'F', 'G', 'UTIL']",13.4395
+"Duncan Robinson",3700.0,"MIA","['SG', 'G', 'UTIL']",14.3025
+"Vit Krejci",3600.0,"OKC","['PG', 'SG', 'G', 'UTIL']",19.8976
+"Jeff Green",3600.0,"DEN","['SF', 'PF', 'F', 'UTIL']",18.6942
+"Serge Ibaka",3600.0,"MIL","['PF', 'C', 'F', 'UTIL']",14.9605
+"Jeremy Lamb",3600.0,"SAC","['SF', 'F', 'UTIL']",15.1158
+"Javonte Green",3500.0,"CHI","['SF', 'F', 'UTIL']",14.3491
+"JaMychal Green",3500.0,"DEN","['PF', 'C', 'F', 'UTIL']",15.2129
+"Ziaire Williams",3500.0,"MEM","['SF', 'F', 'UTIL']",15.0253
+"Patty Mills",3500.0,"BKN","['PG', 'SG', 'G', 'UTIL']",15.6799
+"Khem Birch",3500.0,"TOR","['C', 'UTIL']",13.6732
+"KJ Martin",3500.0,"HOU","['PF', 'C', 'F', 'UTIL']",17.5102
+"Duane Washington Jr.",3400.0,"IND","['SG', 'G', 'UTIL']",21.4624
+"Dalano Banton",3400.0,"TOR","['PG', 'G', 'UTIL']",9.50427
+"Patrick Williams",3300.0,"CHI","['SF', 'PF', 'F', 'UTIL']",17.9347
+"Bryn Forbes",3300.0,"DEN","['SG', 'G', 'UTIL']",10.9055
+"Jordan Nwora",3300.0,"MIL","['SF', 'PF', 'F', 'UTIL']",14.5121
+"Kessler Edwards",3300.0,"BKN","['PF', 'F', 'UTIL']",10.1905
+"Terrence Ross",3300.0,"ORL","['SG', 'SF', 'F', 'G', 'UTIL']",14.1982
+"Thaddeus Young",3300.0,"TOR","['PF', 'C', 'F', 'UTIL']",14.5243
+"Josh Christopher",3300.0,"HOU","['SG', 'SF', 'F', 'G', 'UTIL']",20.581
+"Elijah Hughes",3300.0,"POR","['SF', 'F', 'UTIL']",11.7429
+"Tristan Thompson",3200.0,"CHI","['C', 'UTIL']",14.3794
+"Austin Rivers",3200.0,"DEN","['SG', 'SF', 'F', 'G', 'UTIL']",13.7294
+"Armoni Brooks",3200.0,"TOR","['PG', 'G', 'UTIL']",10.071
+"Garrison Mathews",3200.0,"HOU","['SF', 'F', 'UTIL']",15.9751
+"Ignas Brazdeikis",3100.0,"ORL","['SF', 'PF', 'F', 'UTIL']",13.0052
+"Bruno Fernando",3100.0,"HOU","['C', 'UTIL']",13.5253
+"Dylan Windler",3000.0,"CLE","['SG', 'SF', 'F', 'G', 'UTIL']",9.74047
+"Moses Brown",3000.0,"CLE","['C', 'UTIL']",16.3736
+"Troy Brown Jr.",3000.0,"CHI","['SF', 'PF', 'F', 'UTIL']",8.16977
+"Derrick Jones Jr.",3000.0,"CHI","['SF', 'PF', 'F', 'UTIL']",12.9637
+"Tony Bradley",3000.0,"CHI","['C', 'UTIL']",7.57503
+"Davon Reed",3000.0,"DEN","['SF', 'F', 'UTIL']",12.5711
+"Jeremiah Robinson-Earl",3000.0,"OKC","['PF', 'C', 'F', 'UTIL']",17.6071
+"Santi Aldama",3000.0,"MEM","['PF', 'C', 'F', 'UTIL']",11.4316
+"Jarrett Culver",3000.0,"MEM","['SG', 'SF', 'F', 'G', 'UTIL']",9.19622
+"George Hill",3000.0,"MIL","['PG', 'G', 'UTIL']",12.9165
+"Sandro Mamukelashvili",3000.0,"MIL","['C', 'UTIL']",8.63071
+"Thanasis Antetokounmpo",3000.0,"MIL","['SF', 'PF', 'F', 'UTIL']",9.15244
+"Udonis Haslem",3000.0,"MIA","['C', 'UTIL']",8.76251
+"Omer Yurtseven",3000.0,"MIA","['C', 'UTIL']",8.62517
+"Blake Griffin",3000.0,"BKN","['PF', 'C', 'F', 'UTIL']",10.4261
+"Robin Lopez",3000.0,"ORL","['C', 'UTIL']",13.0142
+"Neemias Queta",3000.0,"SAC","['C', 'UTIL']",9.00001
+"Josh Jackson",3000.0,"SAC","['SG', 'SF', 'F', 'G', 'UTIL']",10.2551
+"Svi Mykhailiuk",3000.0,"TOR","['SG', 'G', 'UTIL']",7.63747
+"Juwan Morgan",3000.0,"TOR","['PF', 'F', 'UTIL']",8.45601
+"Keifer Sykes",3000.0,"IND","['PG', 'G', 'UTIL']",12.5438
+"Reggie Perry",3000.0,"IND","['PF', 'F', 'UTIL']",11.609
+"Daishen Nix",3000.0,"HOU","['PG', 'G', 'UTIL']",12.5172
+"Keljin Blevins",3000.0,"POR","['SF', 'F', 'UTIL']",13.0538
+"Usman Garuba",3000.0,"HOU","['PF', 'C', 'F', 'UTIL']",12.1608
