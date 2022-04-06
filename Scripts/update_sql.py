@@ -1,6 +1,36 @@
+# Import the libraries
+import pickle
 import csv
 import mysql.connector
 from mysql.connector import errorcode
+import sys
+
+# Set the paths to the files
+path_to_website_data = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/website_data.pkl'
+
+# This file is included in .gitignore
+# It is a csv file with three columns.
+# The headers are: user, password, and database
+path_to_sql_settings = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/sql_database_settings.csv'
+
+# Load the data
+try:
+    with open(path_to_website_data, 'rb') as f:
+        data = pickle.load(f)
+except:
+    print("Error loading the data")
+    sys.exit()
+
+try:
+    with open(path_to_sql_settings) as f:
+        spamreader = csv.reader(f, delimiter=',')
+        sql_settings = [row for row in spamreader]
+        user = sql_settings[1][0]
+        password = sql_settings[1][1]
+        database = sql_settings[1][2]
+except:
+    print("Error loading the SQL settings")
+    sys.exit()
 
 def connect_to_sql():
     try:
@@ -17,68 +47,45 @@ def connect_to_sql():
             print("Database does not exist")
         else:
           print(err)
-
+    sys.exit()
 
 def insert_values_sql(data):
-    id = data[0]
-    full_name = data[1]
-    team = data[2]
-    salary = data[3]
-    position = data[4]
-    draftking = data[5]
+    player_name = str(data[0])
+    salary = float(data[1])
+    team = str(data[2])
+    position = str(data[3])
+    draftking = float(data[4])
 
-    QUERY = f'INSERT INTO sys.players(id, full_name, team, salary, position, draftking) VALUES({id}, "{full_name}", "{team}", {salary}, "{position}", {draftking})'
+    try:
+        QUERY = f'INSERT INTO sys.players(player_name, salary, team, position, draftking) VALUES("{player_name}", {salary}, "{team}", "{position}", {draftking})'
+        cursor.execute(QUERY)
+    except:
+        print("Error inserting new values")
+        connection.close()
+        sys.exit()
 
-    connection, cursor = connect_to_sql()
-    cursor.execute(QUERY)
-
-    connection.commit()
-    connection.close()
-
-
-def backup_sql_table():
-    QUERY = 'SELECT * FROM sys.players'
-
-    connection, cursor = connect_to_sql()
-    
-    cursor.execute(QUERY)
-    
-    with open(PATH_BACKUP, 'w', newline='') as f:
-        spamwriter = csv.writer(f, delimiter=',')
-        spamwriter.writerow(['id', 'full_name', 'team', 'salary', 'position', 'draftking'])
-        for data_entry in cursor:
-            spamwriter.writerow(list(data_entry))
-
-    connection.close()
-
-
-def drop_table():
-    connection, cursor = connect_to_sql()
+def delete_all_values():
     QUERY = 'DELETE FROM sys.players'
+    try:
+        cursor.execute(QUERY)
+    except:
+        print("Error deleting the old data")
+        connection.close()
+        sys.exit()
 
-    cursor.execute(QUERY)
+# Connect to the database
+connection, cursor = connect_to_sql()
+
+# Delete all values
+delete_all_values()
+
+# Insert the new values
+for value in data.values:
+    insert_values_sql(value)
+
+try:
     connection.commit()
-    connection.close()    
-
-
-if __name__ == '__main__':
-    PATH_NEW_DATA = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/players.csv'
-    PATH_BACKUP = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/backup_players.csv'
-
-    user = 'root'
-    password = 'admin'
-    database = 'sys'
-
-    # Reading the csv file
-    with open(PATH_NEW_DATA) as f:
-        spamreader = csv.reader(f, delimiter=',')
-        data = [row for row in spamreader]
-
-    # Removing the header
-    data = data[1:]
-
-    backup_sql_table()
-    drop_table()
-
-    for dt in data:
-        insert_values_sql(dt)
+except:
+    print("Error commiting the changes")
+finally:
+    connection.close()
