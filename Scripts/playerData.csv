@@ -1,0 +1,167 @@
+playerName,salary,team,position,draftkingScore
+Nikola Jokic,12000,DEN,"['C', 'UTIL']",45.62569808959960
+Kevin Durant,11600,BKN,"['SF', 'PF', 'F', 'UTIL']",42.329227447509800
+Kyrie Irving,10900,BKN,"['PG', 'SG', 'G', 'UTIL']",41.134864807128900
+Darius Garland,10200,CLE,"['PG', 'G', 'UTIL']",36.55496597290040
+Tyrese Haliburton,9800,IND,"['PG', 'SG', 'G', 'UTIL']",36.36933898925780
+Pascal Siakam,9200,TOR,"['PF', 'C', 'F', 'UTIL']",42.10630798339840
+DeMar DeRozan,8900,CHI,"['PF', 'F', 'UTIL']",41.67887878417970
+Jrue Holiday,8800,MIL,"['PG', 'G', 'UTIL']",36.34653091430660
+Khris Middleton,8700,MIL,"['SG', 'SF', 'F', 'G', 'UTIL']",40.46598815917970
+Fred VanVleet,8700,TOR,"['PG', 'SG', 'G', 'UTIL']",35.52888870239260
+Zach LaVine,8500,CHI,"['SG', 'G', 'UTIL']",33.19840621948240
+Nikola Vucevic,8400,CHI,"['C', 'UTIL']",30.96478271484380
+Jimmy Butler,8400,MIA,"['SF', 'PF', 'F', 'UTIL']",40.41181182861330
+Bam Adebayo,8300,MIA,"['C', 'UTIL']",33.39250564575200
+Scottie Barnes,8100,TOR,"['SF', 'PF', 'F', 'UTIL']",27.12160873413090
+Buddy Hield,7900,IND,"['SG', 'SF', 'F', 'G', 'UTIL']",28.27662849426270
+Desmond Bane,7800,MEM,"['SG', 'G', 'UTIL']",25.634634017944300
+Jaren Jackson Jr.,7400,MEM,"['PF', 'C', 'F', 'UTIL']",26.930435180664100
+Bobby Portis,7400,MIL,"['PF', 'C', 'F', 'UTIL']",23.41360855102540
+Tyler Herro,7300,MIA,"['PG', 'SG', 'G', 'UTIL']",34.11437225341800
+Kyle Lowry,6800,MIA,"['PG', 'G', 'UTIL']",28.13398742675780
+Steven Adams,6600,MEM,"['C', 'UTIL']",21.933298110961900
+Drew Eubanks,6600,POR,"['C', 'UTIL']",25.039588928222700
+Kevin Love,6500,CLE,"['PF', 'C', 'F', 'UTIL']",21.978565216064500
+Lauri Markkanen,6400,CLE,"['SF', 'PF', 'F', 'UTIL']",23.625320434570300
+Bruce Brown,6400,BKN,"['SF', 'F', 'UTIL']",28.26919937133790
+Gary Trent Jr.,6300,TOR,"['SG', 'SF', 'F', 'G', 'UTIL']",25.82757568359380
+Kevin Porter Jr.,6200,HOU,"['PG', 'G', 'UTIL']",40.30601501464840
+Davion Mitchell,6000,SAC,"['PG', 'SG', 'G', 'UTIL']",37.69477844238280
+Harrison Barnes,6000,SAC,"['SF', 'PF', 'F', 'UTIL']",23.81681632995610
+Victor Oladipo,5900,MIA,"['PG', 'SG', 'G', 'UTIL']",23.310630798339800
+Seth Curry,5900,BKN,"['SG', 'SF', 'F', 'G', 'UTIL']",22.11343002319340
+Aleksej Pokusevski,5800,OKC,"['SF', 'PF', 'F', 'UTIL']",31.34694099426270
+Andre Drummond,5800,BKN,"['C', 'UTIL']",24.77360725402830
+Trey Lyles,5800,SAC,"['PF', 'C', 'F', 'UTIL']",23.13988876342770
+Isaiah Jackson,5800,IND,"['PF', 'C', 'F', 'UTIL']",22.807830810546900
+Jalen Green,5800,HOU,"['PG', 'SG', 'G', 'UTIL']",30.845598220825200
+Mo Bamba,5700,ORL,"['C', 'UTIL']",21.82624053955080
+Malachi Flynn,5700,TOR,"['PG', 'G', 'UTIL']",15.150651931762700
+Oshae Brissett,5700,IND,"['SF', 'PF', 'F', 'UTIL']",23.009992599487300
+Caris LeVert,5600,CLE,"['PG', 'SG', 'G', 'UTIL']",25.05052947998050
+Jalen Smith,5600,IND,"['PF', 'C', 'F', 'UTIL']",23.61834144592290
+Alperen Sengun,5500,HOU,"['PF', 'C', 'F', 'UTIL']",22.46156883239750
+Aaron Gordon,5400,DEN,"['SF', 'PF', 'F', 'UTIL']",26.5347843170166
+Donte DiVincenzo,5400,SAC,"['SG', 'SF', 'F', 'G', 'UTIL']",23.27782249450680
+Will Barton,5300,DEN,"['SG', 'G', 'UTIL']",25.33603286743160
+De'Anthony Melton,5300,MEM,"['PG', 'SG', 'G', 'UTIL']",22.229782104492200
+Chris Boucher,5200,TOR,"['PF', 'F', 'UTIL']",22.10658264160160
+Coby White,5100,CHI,"['PG', 'SG', 'G', 'UTIL']",21.393186569213900
+Tyus Jones,5100,MEM,"['PG', 'G', 'UTIL']",25.997594833374000
+Isaiah Roby,5000,OKC,"['PF', 'C', 'F', 'UTIL']",24.251054763793900
+Chuma Okeke,4800,ORL,"['SF', 'PF', 'F', 'UTIL']",18.77322006225590
+Precious Achiuwa,4800,TOR,"['C', 'UTIL']",21.46207427978520
+Brook Lopez,4700,MIL,"['C', 'UTIL']",20.90968894958500
+Kyle Anderson,4700,MEM,"['SF', 'PF', 'F', 'UTIL']",20.21162796020510
+Jalen Suggs,4700,ORL,"['PG', 'SG', 'G', 'UTIL']",31.4561710357666
+CJ Elleby,4700,POR,"['SG', 'SF', 'F', 'G', 'UTIL']",21.48603057861330
+Ayo Dosunmu,4600,CHI,"['PG', 'G', 'UTIL']",21.21877098083500
+Monte Morris,4600,DEN,"['PG', 'G', 'UTIL']",24.56104850769040
+Brandon Clarke,4600,MEM,"['PF', 'C', 'F', 'UTIL']",20.97402000427250
+Nicolas Claxton,4600,BKN,"['C', 'UTIL']",22.01059341430660
+Kris Dunn,4600,POR,"['PG', 'G', 'UTIL']",31.09034919738770
+Pat Connaughton,4500,MIL,"['SF', 'PF', 'F', 'UTIL']",14.822782516479500
+LaMarcus Aldridge,4500,BKN,"['PF', 'C', 'F', 'UTIL']",20.109567642211900
+Damian Jones,4400,SAC,"['C', 'UTIL']",24.74625015258790
+Moritz Wagner,4400,ORL,"['PF', 'C', 'F', 'UTIL']",20.488826751709000
+Markelle Fultz,4300,ORL,"['PG', 'G', 'UTIL']",29.766584396362300
+R.J. Hampton,4200,ORL,"['PG', 'SG', 'G', 'UTIL']",21.575454711914100
+Jae'Sean Tate,4200,HOU,"['PF', 'F', 'UTIL']",21.67611694335940
+Isaac Okoro,4100,CLE,"['SG', 'SF', 'F', 'G', 'UTIL']",20.471067428588900
+Aaron Wiggins,4100,OKC,"['SF', 'F', 'UTIL']",24.13869857788090
+Jevon Carter,4100,MIL,"['PG', 'SG', 'G', 'UTIL']",13.878183364868200
+Max Strus,4100,MIA,"['SG', 'SF', 'F', 'G', 'UTIL']",20.06081962585450
+T.J. McConnell,4100,IND,"['PG', 'G', 'UTIL']",21.23220634460450
+Terry Taylor,4100,IND,"['PF', 'C', 'F', 'UTIL']",21.711645126342800
+Rajon Rondo,4000,CLE,"['PG', 'G', 'UTIL']",19.246082305908200
+Chimezie Metu,4000,SAC,"['PF', 'F', 'UTIL']",20.50469207763670
+Ben McLemore,4000,POR,"['SG', 'G', 'UTIL']",21.451587677002000
+Lamar Stevens,3900,CLE,"['SG', 'SF', 'F', 'G', 'UTIL']",22.71578788757320
+Caleb Martin,3900,MIA,"['SF', 'F', 'UTIL']",19.07539176940920
+Justin Holiday,3900,SAC,"['SG', 'G', 'UTIL']",14.99880027771000
+Cedi Osman,3800,CLE,"['SG', 'SF', 'F', 'G', 'UTIL']",14.125978469848600
+Theo Maledon,3800,OKC,"['PG', 'G', 'UTIL']",24.36155891418460
+Keon Johnson,3800,POR,"['SG', 'SF', 'F', 'G', 'UTIL']",22.11757469177250
+John Konchar,3700,MEM,"['SG', 'SF', 'F', 'G', 'UTIL']",12.955032348632800
+Duncan Robinson,3700,MIA,"['SG', 'G', 'UTIL']",14.84209442138670
+Vit Krejci,3600,OKC,"['PG', 'SG', 'G', 'UTIL']",21.685068130493200
+Serge Ibaka,3600,MIL,"['PF', 'C', 'F', 'UTIL']",14.96051788330080
+Jeremy Lamb,3600,SAC,"['SF', 'F', 'UTIL']",15.136812210083000
+Javonte Green,3500,CHI,"['SF', 'F', 'UTIL']",15.00531005859380
+JaMychal Green,3500,DEN,"['PF', 'C', 'F', 'UTIL']",14.529023170471200
+Ziaire Williams,3500,MEM,"['SF', 'F', 'UTIL']",15.93779754638670
+Patty Mills,3500,BKN,"['PG', 'SG', 'G', 'UTIL']",15.550300598144500
+Khem Birch,3500,TOR,"['C', 'UTIL']",13.76921844482420
+KJ Martin,3500,HOU,"['PF', 'C', 'F', 'UTIL']",17.0172061920166
+Gabe Vincent,3400,MIA,"['PG', 'G', 'UTIL']",13.265350341796900
+Duane Washington Jr.,3400,IND,"['SG', 'G', 'UTIL']",22.112892150878900
+Dalano Banton,3400,TOR,"['PG', 'G', 'UTIL']",9.774320602416990
+Patrick Williams,3300,CHI,"['SF', 'PF', 'F', 'UTIL']",18.67253875732420
+Bryn Forbes,3300,DEN,"['SG', 'G', 'UTIL']",10.550985336303700
+Jordan Nwora,3300,MIL,"['SF', 'PF', 'F', 'UTIL']",14.581438064575200
+Kessler Edwards,3300,BKN,"['PF', 'F', 'UTIL']",11.806419372558600
+Terrence Ross,3300,ORL,"['SG', 'SF', 'F', 'G', 'UTIL']",14.198152542114300
+Thaddeus Young,3300,TOR,"['PF', 'C', 'F', 'UTIL']",13.927711486816400
+Josh Christopher,3300,HOU,"['SG', 'SF', 'F', 'G', 'UTIL']",20.82142448425290
+Elijah Hughes,3300,POR,"['SF', 'F', 'UTIL']",11.307035446167000
+Tristan Thompson,3200,CHI,"['C', 'UTIL']",14.96938705444340
+Austin Rivers,3200,DEN,"['SG', 'SF', 'F', 'G', 'UTIL']",14.54758644104000
+Armoni Brooks,3200,TOR,"['PG', 'G', 'UTIL']",10.07097625732420
+Garrison Mathews,3200,HOU,"['SF', 'F', 'UTIL']",15.742389678955100
+Ignas Brazdeikis,3100,ORL,"['SF', 'PF', 'F', 'UTIL']",15.326589584350600
+Bruno Fernando,3100,HOU,"['C', 'UTIL']",13.52533721923830
+Mychal Mulder,3000,MIA,"['SG', 'G', 'UTIL']",11.542684555053700
+Tacko Fall,3000,CLE,"['C', 'UTIL']",8.501592636108400
+Dylan Windler,3000,CLE,"['SG', 'SF', 'F', 'G', 'UTIL']",9.74046516418457
+Kevin Pangos,3000,CLE,"['PG', 'G', 'UTIL']",10.77767562866210
+Moses Brown,3000,CLE,"['C', 'UTIL']",17.489398956298800
+Troy Brown Jr.,3000,CHI,"['SF', 'PF', 'F', 'UTIL']",8.096256256103520
+Derrick Jones Jr.,3000,CHI,"['SF', 'PF', 'F', 'UTIL']",13.307677268981900
+Tyler Cook,3000,CHI,"['PF', 'C', 'F', 'UTIL']",10.820011138916000
+Devon Dotson,3000,CHI,"['PG', 'SG', 'G', 'UTIL']",9.158342361450200
+Tony Bradley,3000,CHI,"['C', 'UTIL']",7.900919437408450
+Facundo Campazzo,3000,DEN,"['PG', 'G', 'UTIL']",11.172513961792000
+Markus Howard,3000,DEN,"['PG', 'G', 'UTIL']",7.252662181854250
+Davon Reed,3000,DEN,"['SF', 'F', 'UTIL']",12.272489547729500
+Mamadi Diakite,3000,OKC,"['SF', 'PF', 'F', 'UTIL']",12.54145622253420
+Paul Watson,3000,OKC,"['SF', 'F', 'UTIL']",13.977429389953600
+KZ Okpala,3000,OKC,"['SF', 'F', 'UTIL']",13.270851135253900
+Jeremiah Robinson-Earl,3000,OKC,"['PF', 'C', 'F', 'UTIL']",16.673776626586900
+Gabriel Deck,3000,OKC,"['SF', 'F', 'UTIL']",12.544425964355500
+Santi Aldama,3000,MEM,"['PF', 'C', 'F', 'UTIL']",11.431564331054700
+Sam Merrill,3000,MEM,"['PG', 'SG', 'G', 'UTIL']",9.678220748901370
+Jarrett Culver,3000,MEM,"['SG', 'SF', 'F', 'G', 'UTIL']",9.196218490600590
+Shaquille Harrison,3000,MEM,"['SG', 'G', 'UTIL']",14.590787887573200
+Langston Galloway,3000,MIL,"['SG', 'G', 'UTIL']",12.393147468566900
+George Hill,3000,MIL,"['PG', 'G', 'UTIL']",12.923587799072300
+Sandro Mamukelashvili,3000,MIL,"['C', 'UTIL']",8.708495140075680
+Thanasis Antetokounmpo,3000,MIL,"['SF', 'PF', 'F', 'UTIL']",9.009040832519530
+Javonte Smart,3000,MIA,"['PG', 'G', 'UTIL']",10.588844299316400
+Udonis Haslem,3000,MIA,"['C', 'UTIL']",8.762513160705570
+Kyle Guy,3000,MIA,"['PG', 'G', 'UTIL']",7.909566402435300
+Marcus Garrett,3000,MIA,"['PG', 'SG', 'G', 'UTIL']",10.258628845214800
+Omer Yurtseven,3000,MIA,"['C', 'UTIL']",8.727699279785160
+Chris Silva,3000,MIA,"['PF', 'F', 'UTIL']",10.348153114318800
+David Duke Jr.,3000,BKN,"['PG', 'SF', 'F', 'G', 'UTIL']",10.691583633422900
+Day'Ron Sharpe,3000,BKN,"['C', 'UTIL']",13.945512771606400
+Blake Griffin,3000,BKN,"['PF', 'C', 'F', 'UTIL']",10.42611598968510
+PJ Dozier,3000,ORL,"['PG', 'G', 'UTIL']",18.350675582885700
+Robin Lopez,3000,ORL,"['C', 'UTIL']",13.820399284362800
+Freddie Gillespie,3000,ORL,"['SF', 'PF', 'F', 'UTIL']",16.050756454467800
+Louis King,3000,SAC,"['PF', 'F', 'UTIL']",13.570226669311500
+Jahmi'us Ramsey,3000,SAC,"['SG', 'G', 'UTIL']",8.531298637390140
+Neemias Queta,3000,SAC,"['C', 'UTIL']",9.494525909423830
+Josh Jackson,3000,SAC,"['SG', 'SF', 'F', 'G', 'UTIL']",10.49318027496340
+Justin Champagnie,3000,TOR,"['SF', 'PF', 'F', 'UTIL']",7.941333770751950
+Svi Mykhailiuk,3000,TOR,"['SG', 'G', 'UTIL']",7.637470245361330
+Daniel Oturu,3000,TOR,"['C', 'UTIL']",10.929969787597700
+D.J. Wilson,3000,TOR,"['PF', 'F', 'UTIL']",17.730615615844700
+Isaac Bonga,3000,TOR,"['SF', 'F', 'UTIL']",8.407361030578610
+Keifer Sykes,3000,IND,"['PG', 'G', 'UTIL']",12.543817520141600
+Reggie Perry,3000,IND,"['PF', 'F', 'UTIL']",13.05010986328130
+Daishen Nix,3000,HOU,"['PG', 'G', 'UTIL']",12.597187042236300
+Dennis Smith Jr.,3000,POR,"['PG', 'G', 'UTIL']",17.00362777709960
+Keljin Blevins,3000,POR,"['SF', 'F', 'UTIL']",12.918182373046900
+David Nwaba,3000,HOU,"['SF', 'F', 'UTIL']",11.11380672454830
+Usman Garuba,3000,HOU,"['PF', 'C', 'F', 'UTIL']",12.72185516357420
