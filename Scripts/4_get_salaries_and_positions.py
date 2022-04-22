@@ -5,7 +5,7 @@ import sys
 import io
 import pickle
 
-path_to_file = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/salaries_and_positions.pkl'
+path_to_file = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/salaries_and_positions.pkl'
 
 # URL from DraftKing to download the csv file with all the salary and position data
 try:
