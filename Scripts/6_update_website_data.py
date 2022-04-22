@@ -7,13 +7,16 @@ import sys
 import pandas as pd
 
 # Set the paths to the files
-path_to_website_data = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/website_data.pkl'
-path_to_csv_backup = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/latest_data_sql.csv'
+path_to_website_data = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/website_data.pkl'
+path_to_csv_backup = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/latest_data_sql.csv'
 
 # This file is included in .gitignore
 # It is a csv file with three columns.
 # The headers are: user, password, and database
-path_to_sql_settings = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/sql_database_settings.csv'
+path_to_sql_settings = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/sql_database_settings.csv'
+
+# Boolean to set if there is a SQL database to be updated
+connect_to_sql_database = False
 
 # Load the data
 try:
@@ -23,16 +26,17 @@ except:
     print("Error loading the data")
     sys.exit()
 
-try:
-    with open(path_to_sql_settings) as f:
-        spamreader = csv.reader(f, delimiter=',')
-        sql_settings = [row for row in spamreader]
-        user = sql_settings[1][0]
-        password = sql_settings[1][1]
-        database = sql_settings[1][2]
-except:
-    print("Error loading the SQL settings")
-    sys.exit()
+if connect_to_sql_database:
+    try:
+        with open(path_to_sql_settings) as f:
+            spamreader = csv.reader(f, delimiter=',')
+            sql_settings = [row for row in spamreader]
+            user = sql_settings[1][0]
+            password = sql_settings[1][1]
+            database = sql_settings[1][2]
+    except:
+        print("Error loading the SQL settings")
+        sys.exit()
 
 def connect_to_sql():
     try:
@@ -75,23 +79,24 @@ def delete_all_values():
         connection.close()
         sys.exit()
 
-# Connect to the database
-connection, cursor = connect_to_sql()
+if connect_to_sql_database:
+    # Connect to the database
+    connection, cursor = connect_to_sql()
 
-# Delete all values
-delete_all_values()
+    # Delete all values
+    delete_all_values()
 
-# Insert the new values
-for value in data.values:
-    insert_values_sql(value)
+    # Insert the new values
+    for value in data.values:
+        insert_values_sql(value)
 
-try:
-    connection.commit()
-except:
-    print("Error commiting the changes")
-    sys.exit()
-finally:
-    connection.close()
+    try:
+        connection.commit()
+    except:
+        print("Error commiting the changes")
+        sys.exit()
+    finally:
+        connection.close()
 
 # Save a csv file with the latest data
 try:
