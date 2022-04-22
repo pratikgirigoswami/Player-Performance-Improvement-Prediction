@@ -11,10 +11,11 @@ from nba_api.stats.endpoints import leaguegamefinder
 # Set the variables
 season = '2021-22'
 season_id = '22021'
-season_type = 'Regular Season'
-reference_path_game_by_game = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/game_by_game_dataset.pkl'
-reference_path_mean_10_games = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/mean_10_games_dataset.pkl'
-reference_path_model_input = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/model_input.pkl'
+# season_type = 'Regular Season'
+season_type = 'Playoffs'
+reference_path_game_by_game = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/game_by_game_dataset.pkl'
+reference_path_mean_10_games = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/mean_10_games_dataset.pkl'
+reference_path_model_input = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/model_input.pkl'
 
 # Array to store error messages
 errors = []
