@@ -4,7 +4,7 @@ import pickle
 from bs4 import BeautifulSoup
 import sys
 
-reference_path_injury_report = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/GitHub/Player-Performance-Improvement-Prediction/Scripts/injury_report.pkl'
+reference_path_injury_report = 'G:/My Drive/Colab Notebooks/00 - Lambton/2022.1/04 - AML3406 - AI and ML Capstone Project/Player-Performance-Improvement-Prediction/Scripts/injury_report.pkl'
 
 # Get the data from the espn website
 url = 'https://www.espn.com/nba/injuries'
@@ -28,7 +28,7 @@ for line in content:
         if str(line)[0] == '<':
             break
         players.append(line)
-    if list(line)[0] == "Fantasy Men's Basketball":
+    if list(line)[0] == "Daily Lines":
         start = True
 
 if len(players) == 0:
