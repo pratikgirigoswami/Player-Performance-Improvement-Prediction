@@ -1,5 +1,4 @@
 # Player-Performance-Improvement-Prediction
-
 Fantasy games have been found as one of the most dominating areas in the sports market. The National Basketball Association (NBA) is widely viewed sports across the globe and therefore has major audience participation in fantasy games on various platforms. DraftKings is one of those platforms where a user can form a line-up based on defined rules and play fantasy games to get monetary rewards.
 
 
